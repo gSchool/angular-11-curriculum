@@ -16,12 +16,40 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: ec2b9bdbb4fba7f1f22c9d40c5a9b52f
-        Path: /01-project-1/00-intro.md
+        UID: 9cb24064b8145b8fb6af271cb0aae6d9
+        Path: /01-project-1/00-overview.md
       -
         Type: Lesson
-        UID: 8eee15daaedf2d68c1794c3bc179c99a
-        Path: /01-project-1/01-getting_started.md
+        UID: 659a8a33efa54cf9ccbe8638093b5d4b
+        Path: /01-project-1/000-virtualization.md
+      -
+        Type: Lesson
+        UID: 585b29d34eab338d3645db543b924cf1
+        Path: /01-project-1/01-ci-cd.md
+      -
+        Type: Lesson
+        UID: 55bd28fb313b981202758f18031e2ecf
+        Path: /01-project-1/02-pipelines-intro.md
+      -
+        Type: Lesson
+        UID: 4a5fbcd60d189251ca3a66528a182cb1
+        Path: /01-project-1/03-ci-yaml-file.md
+      -
+        Type: Lesson
+        UID: 14385125bd38a5a2be08e0c9038293fa
+        Path: /01-project-1/04-pipeline-debugging.md
+      -
+        Type: Lesson
+        UID: ffc607965c1cbcc0fba060e3bad32cac
+        Path: /01-project-1/05-gitlab-continuous-delivery.md
+      -
+        Type: Lesson
+        UID: 4825946b3c04579c03f911e93f77c41a
+        Path: /01-project-1/06-project.md
+      -
+        Type: Lesson
+        UID: a1b62f4b3d7eb968e283f3f4ce49ede8
+        Path: /01-project-1/07-stretch-goal.md
   -
     Title: Project 2
     Description: Project 2
