@@ -47,16 +47,12 @@ Standards:
         Path: /02-project-1/04-ci-yaml-file.md
       -
         Type: Lesson
-        UID: 371db067aed8a025332758986b885766
-        Path: /02-project-1/05-pipeline-debugging.md
+        UID: af11d0d921f214b3a120696841ceefbc
+        Path: /02-project-1/05-gitlab-continuous-delivery.md
       -
         Type: Lesson
-        UID: 7600c8d1239fd05e6197c1ace20da6aa
-        Path: /02-project-1/06-gitlab-continuous-delivery.md
-      -
-        Type: Lesson
-        UID: a12590cd86c225ae15ec919c84884f27
-        Path: /02-project-1/07-project.md
+        UID: 0312fa2e06e36c6409142706f3221994
+        Path: /02-project-1/06-project.md
   -
     Title: Project 2
     Description: Project 2
