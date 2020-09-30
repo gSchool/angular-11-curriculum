@@ -94,7 +94,7 @@ There are two docker images used in this file, the 2nd of which is in the test s
 
 ### !challenge
 
-* type: short-answer
+* type: multiple-choice
 * id: AEB95E4C-522E-43B3-8A52-B32202889ED5
 * title: .gitlab-ci.yml file
 * topics: ci, cd
