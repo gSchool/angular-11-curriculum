@@ -6,7 +6,7 @@ Pipelines can take a long time to complete. There are several shortcuts that may
 The stretch goal for this project is to use disk mounting with Docker to optimize the testing process before pushing your project to GitLab.
 
 #### Video: Directory mounting with Docker
-[![](video-player.png)](https://youtu.be/tXtPJPCzSTY) 
+[![](video-player.png)](https://youtu.be/tbd) 
 
 
  

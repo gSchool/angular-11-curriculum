@@ -8,6 +8,17 @@
 ---
 Standards:
   -
+    Title: Guide
+    Description: Guide
+    UID: 6602bbeb2956c035fb4cb5e844a4861b
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 9a2b1af4059c5fb43608f745f8500bf7
+        Path: /01-guide/00-overview.md
+  -
     Title: Project 1
     Description: Project 1
     UID: 3b387536d51e5c045256364275533aa4
@@ -16,40 +27,36 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 9cb24064b8145b8fb6af271cb0aae6d9
-        Path: /01-project-1/00-overview.md
+        UID: 2caed03217c0c1eb74631a71ae21b266
+        Path: /02-project-1/00-overview.md
       -
         Type: Lesson
-        UID: a3ba5fcf8a470487f5e07a7a89094ad2
-        Path: /01-project-1/01-virtualization.md
+        UID: 797f2fe88422391f4942e8ef497064ce
+        Path: /02-project-1/01-virtualization.md
       -
         Type: Lesson
-        UID: 4cbe91f9b4b8341b1fdfbaf0172a1914
-        Path: /01-project-1/02-ci-cd.md
+        UID: 68870c4301e78e3191eb3800e9fcbd1d
+        Path: /02-project-1/02-ci-cd.md
       -
         Type: Lesson
-        UID: 084d9d18f1bc1f8b2820daa2ae387ec4
-        Path: /01-project-1/03-pipelines-intro.md
+        UID: 9a7a3aad6b0adfff96219a55fff1c832
+        Path: /02-project-1/03-pipelines-intro.md
       -
         Type: Lesson
-        UID: 9b14f3e60073e5f239dd9c0e59850283
-        Path: /01-project-1/04-ci-yaml-file.md
+        UID: 804512de571de2f557e0f36677de8ec6
+        Path: /02-project-1/04-ci-yaml-file.md
       -
         Type: Lesson
-        UID: f4bf84cc1be833b6822aa47689fa46dc
-        Path: /01-project-1/05-pipeline-debugging.md
+        UID: 371db067aed8a025332758986b885766
+        Path: /02-project-1/05-pipeline-debugging.md
       -
         Type: Lesson
-        UID: be5063386bc3915c5a7207dc0447ce7b
-        Path: /01-project-1/06-gitlab-continuous-delivery.md
+        UID: 7600c8d1239fd05e6197c1ace20da6aa
+        Path: /02-project-1/06-gitlab-continuous-delivery.md
       -
         Type: Lesson
-        UID: 0a8ddeefddf4f3856a16c7742fd82883
-        Path: /01-project-1/07-project.md
-      -
-        Type: Lesson
-        UID: d71a783c91dc5646d3bf36506f212daa
-        Path: /01-project-1/08-stretch-goal.md
+        UID: a12590cd86c225ae15ec919c84884f27
+        Path: /02-project-1/07-project.md
   -
     Title: Project 2
     Description: Project 2
@@ -59,5 +66,21 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 7f966c4035a1845b29dc1cc8e04ab2de
-        Path: /02-project-2/00-intro.md
+        UID: 112c2a76593a723db123043ba32ec8df
+        Path: /03-project-2/00-intro.md
+      -
+        Type: Lesson
+        UID: fead5018815f60a6c4f02f1592cdc0a8
+        Path: /03-project-2/01-containerization-overview.md
+      -
+        Type: Lesson
+        UID: 86bc450df2393dc4ecef9fb1ffed808d
+        Path: /03-project-2/02-hands-on-docker.md
+      -
+        Type: Lesson
+        UID: 2d4f39d94c467d788dd92866cb333584
+        Path: /03-project-2/03-project.md
+      -
+        Type: Lesson
+        UID: 10a25f66a2f2970345182cbbd2efc9c3
+        Path: /03-project-2/04-stretch-goal.md

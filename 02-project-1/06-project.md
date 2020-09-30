@@ -6,10 +6,10 @@ At this point, you have the skills to create a CI / CD pipelines for one of your
 Steps: 
 
 1. Create your own project from scratch 
-1. Find a gitlab-ci.yaml file that will support your project's tech. Here is a [folder] containing starter gitlab-ci.yaml files that support Java Spring, Angular, and Python projects.
-1. Configure GitLab to contain environment variables to support PCF, Surge, Firebase, or whichever hosting platform where your deployed code will live
+1. Find or build a gitlab-ci.yaml file that will support your project's tech. You are free to use examples from the previous videos. 
+1. Configure GitLab to contain environment variables to support continous delivery onto Heroku
 1. Push your code to GitLab and watch the pipelines commence 
-1. Analyze, debug, and modify scripts as needed until all pipelines are passing
+1. Analyze, debug, and modify scripts as needed until all pipelines are passing and the new code to your project is pushed to Heroku after all pipelines pass. 
 
 
 ### !challenge
