@@ -3,6 +3,8 @@
 ### !callout-success
 # Learning Objectives
 By the end of this lesson, trainees will be able to:
+- Create repositories in Gitlab
+- Upload source code into repositories
 - Describe the CI / CD pipelines process in general
 - Push a new or example app to Gitlab
 - Create a .gitlab-ci.yml file for GitLab with build, test, and deploy segments

@@ -90,7 +90,7 @@ There are two docker images used in this file, the 2nd of which is in the test s
 
 ### !end-challenge
 
-////////
+
 
 ### !challenge
 
