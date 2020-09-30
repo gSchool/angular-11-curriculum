@@ -1,4 +1,4 @@
-## Overview : Setting up basic PCF deployments with CI / CD
+## Overview : Setting up basic CI / CD pipelines and deployments
 
 ### !callout-success
 # Learning Objectives
