@@ -1,4 +1,4 @@
-### Getting Started with CI / CD 
+### Getting started with CI/CD 
 
 
 CI / CD ( Continuous Integration / Continous Delivery ) is one of the cornersontes of the software development lifecycle at T-Mobile. 
