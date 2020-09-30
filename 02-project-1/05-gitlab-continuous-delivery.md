@@ -1,4 +1,4 @@
-## Gitlab continous delivery
+## Gitlab continuous delivery
 
 
 This series of videos will walk you through the process of adding deployment targets to your front and back end projects respectively. 
