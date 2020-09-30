@@ -10,7 +10,7 @@ By the end of this lesson, trainees will be able to:
 - Create a .gitlab-ci.yml file for GitLab with build, test, and deploy segments
 - Debug a failing pipeline 
 - Configure GitLab environment variables
-- Deploy to a remote production target via continous delivery
+- Deploy to a remote production target via continuous delivery
 ### !end-callout
 
 #### Core subjects and competencies : 
