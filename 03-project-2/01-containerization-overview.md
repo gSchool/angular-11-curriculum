@@ -1,4 +1,0 @@
-## Containerization overview
-
-
- 
