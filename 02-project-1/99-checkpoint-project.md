@@ -1,9 +1,9 @@
-## Project
+# Project 1
 
 At this point, you have the skills to create a CI / CD pipelines for one of your own projects. 
 
 
-Steps: 
+## Steps: 
 
 1. Create your own project from scratch ( either Java Spring or Angular )
 1. Find or build a gitlab-ci.yaml file that will support your project's tech. You are free to use examples from the previous videos. 
@@ -12,7 +12,7 @@ Steps:
 1. Analyze, debug, and modify scripts as needed until all pipelines are passing and the new code to your project is pushed to Heroku after all pipelines pass. 
 
 
-Note: 
+### Note: 
 Feel free to use the existing "starter" GitLab projects if you are short on time or simply just need the convenience of projects with some of the work done for you: 
 
 [COIN COUNTER](https://gitlab.com/nmuta-jones-tmo/coincounter/) : An Angular project already set up to deploy to PCF 

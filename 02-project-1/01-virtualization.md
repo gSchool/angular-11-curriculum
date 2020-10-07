@@ -1,5 +1,4 @@
-## Virtualization
-
+# Virtualization
 
 Virtualization is central to the software development lifecycles of most major Enterprise operations. The core push toward virtualization was born out of the need to optimize server resources as companies scale and contract according to the needs of the market, fluctuations in demand for specific products, user trends, etc. 
 

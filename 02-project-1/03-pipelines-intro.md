@@ -8,8 +8,10 @@ Pipelines are a set of checkpoints that you can set up to visualize, analyze, de
 
 In this video, we demonstrate how pipelines work, and the general flow of using pipelines in GitLab. 
 
-#### Video: Introduction to pipelines
+### !callout-info
+# Video: Introduction to pipelines
 [![](video-player.png)](https://youtu.be/e1essyyMAcQ) 
+### !end-callout
 
 
 

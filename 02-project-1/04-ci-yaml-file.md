@@ -1,5 +1,4 @@
-## The .gitlab-ci.yaml file 
-
+# The .gitlab-ci.yaml file 
 
 The presence of a .gitlab-ci.yaml file in a repository is what gives GitLab the signal that we will be using CI / CD for this particular project. 
 
@@ -11,11 +10,15 @@ The core functionality of this first .gitlab-ci.yaml file that we are going to b
 - pushing the code to production
 
 
-#### Video: Setting up the gitlab-ci.yaml file 
+### !callout-info
+# Video: Setting up the gitlab-ci.yaml file 
 [![](video-player.png)](https://youtu.be/w2hdFxbRQkY) 
+### !end-callout
 
-#### Video: Using GitLab's built-in ci linter tool for your project:  
+### !callout-info
+# Video: Using GitLab's built-in ci linter tool for your project:  
 [![](video-player.png)](https://youtu.be/nwXJgDM3R4I) 
+### !end-callout
 
 Please use the following .gitlab-ci.yml code to answer the challenge questions below: 
 

@@ -1,5 +1,4 @@
-## Gitlab continuous delivery
-
+# Gitlab continuous delivery
 
 This series of videos will walk you through the process of adding deployment targets to your front and back end projects respectively. 
 
@@ -13,6 +12,8 @@ Please note that this video series will first walk you through setting up a back
 
 If you are already familair with this process, you are free to skip any or all of the vidoes and proceed straight to the project. 
 
+### !callout-info
+# Videos: Setting up a Heroku CI / CD pipeline in Gitlab
 | Subject                                                           | Video                        | Notes |
 |---                                                        |---                              |---|
 | Heroku login   |  [![](video-player.png)](https://drive.google.com/file/d/1pDIR82Ju4QEDcRb1-4juorjgZOGqMH9x/view) | Logging into Heroku from the terminal |
@@ -25,9 +26,8 @@ If you are already familair with this process, you are free to skip any or all o
 | Setting up an Angular app for CD part 2 | [![](video-player.png)](https://drive.google.com/file/d/181mCQWDcwNpco-OcB0jesEak5ozHfbkJ/view)  | This video shows the process of repeating the setup of a Gitlab 'CD to Heroku' app, but this time for Angular  |
 | Debugging front end deploy | [![](video-player.png)](https://drive.google.com/file/d/1CULDe8a51th5XR31tMEU7F9a_2FTt8bm/view)  | Using heroku logs --tail to debug a Heroku deployment   |
 | Finishing the Angular deploy | [![](video-player.png)]( https://drive.google.com/file/d/1bP8vc53fNIBog-_mmQOO5cTLPfotGRuc/view)  | Reconfiguring package.json and binding to a Heroku's port to complete the deployment   |
-
+### !end-callout
  
 
- 
 
 

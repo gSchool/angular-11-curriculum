@@ -8,17 +8,6 @@
 ---
 Standards:
   -
-    Title: Guide
-    Description: Guide
-    UID: 6602bbeb2956c035fb4cb5e844a4861b
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 9a2b1af4059c5fb43608f745f8500bf7
-        Path: /01-guide/00-overview.md
-  -
     Title: Project 1
     Description: Project 1
     UID: 3b387536d51e5c045256364275533aa4
@@ -50,9 +39,9 @@ Standards:
         UID: af11d0d921f214b3a120696841ceefbc
         Path: /02-project-1/05-gitlab-continuous-delivery.md
       -
-        Type: Lesson
-        UID: 0312fa2e06e36c6409142706f3221994
-        Path: /02-project-1/06-project.md
+        Type: Checkpoint
+        UID: fbf6634a37b680cfc48ea81aaebfda03
+        Path: /02-project-1/99-checkpoint-project.md
   -
     Title: Project 2
     Description: Project 2

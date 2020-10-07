@@ -2,7 +2,7 @@
 
 ### !callout-success
 # Learning Objectives
-By the end of this lesson, trainees will be able to:
+By the end of this unit, trainees will be able to:
 - Create repositories in Gitlab
 - Upload source code into repositories
 - Describe the CI / CD pipelines process in general
@@ -19,6 +19,6 @@ By the end of this lesson, trainees will be able to:
 - Intermediate Git
 - CI / CD in respect to a front or back end technology
  
-
+You will know that you have successfully mastered these objectives and you are ready to move on when you can complete this unit's [checkpoint project](./99-checkpoint-project.md).
 
 
