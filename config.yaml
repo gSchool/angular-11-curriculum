@@ -73,3 +73,25 @@ Standards:
         Type: Lesson
         UID: 5e18ad396472ab784cd5a8205c00dea4
         Path: /03-project-2/05-project.md
+  -
+    Title: Project 3
+    Description: Project 3
+    UID: a50373b610d110f809bab5cc85e5e156
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - Type: Lesson
+        UID: 01EM6ZSM39YPMBCS57WB7WMNGE
+        Path: /04-project-3/01-Pipeline-Sldies.pdf
+      -
+        Type: Lesson
+        UID: 1722f42cc16f5ea3613811e30ebbe9bc
+        Path: /04-project-3/02-PCF.md
+      -
+        Type: Lesson
+        UID: 56b9fa521bface94e15d71256a40da9f
+        Path: /04-project-3/04-Templates.md
+      -
+        Type: Lesson
+        UID: 167ba5ab6f9c14fdf6abb7ac44d95c6d
+        Path: /04-project-3/09-in-class-assessment.md
