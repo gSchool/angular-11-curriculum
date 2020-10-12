@@ -27,13 +27,13 @@ Containers differ from virtual machines in that
 
 * containers typically use more resources
 * virtual machines usually live within containers
-* containers typically use less resources
+* containers typically use fewer resources
 * containers take more time to boot up
 
 ##### !end-options
 
 ##### !answer
-* containers typically use less resources
+* containers typically use fewer resources
 
 ##### !end-answer
 
@@ -42,7 +42,7 @@ Containers differ from virtual machines in that
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 ##### !explanation
 
-Virtual machines emulate an entire machine, where containers are smaller spaces that only contain code and the supporting resources needed to run that code. This makes containers typically much smaller and faster to boot up. 
+Virtual machines emulate an entire machine, where containers are smaller spaces that only contain code and the supporting resources needed to run that code. This makes containers typically much smaller and faster to spin up. 
 
 ##### !end-explanation
 
