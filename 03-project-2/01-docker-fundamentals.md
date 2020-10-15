@@ -36,7 +36,7 @@ Now that you have Docker installed, let's see just how easy it is to use an exis
 ```
 # Tell Docker to pull a simple html app repository with tag 'latest' and run it 
 # locally on port 8080. ( 8080 on your machine and 8080 from the container ) 
-docker container run --rm -it -p 8080:8080/tcp nmuta/python_serv
+docker container run --rm -it -p 8080:8080/tcp nmuta/python_serv:latest
 ```
 
 You should see some header text that says
