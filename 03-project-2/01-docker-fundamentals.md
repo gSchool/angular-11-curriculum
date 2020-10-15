@@ -34,10 +34,17 @@ Let's try it.
 Now that you have Docker installed, let's see just how easy it is to use an existing application. Pull and run ths project from Docker:
 
 ```
-# Tell Docker to pull apidemo repository with tag 'latest' and run it 
-# locally on port 8000. 80 represents the port config for the app.
-docker run -p 8000:80 lotech/apidemo:latest
+# Tell Docker to pull a simple html app repository with tag 'latest' and run it 
+# locally on port 8080. ( 8080 on your machine and 8080 from the container ) 
+docker container run --rm -it -p 8080:8080/tcp nmuta/python_serv
 ```
+
+You should see some header text that says
+
+```
+Congratulations! 
+```
+With some other text on the page. This image has been pulled from a public repo and is now running locally on your computer. It is a simple HTML page being served up with a python server, but you do NOT need Python to be installed on your machine, you don't need the files, all you need is Docker, which runs this container. The container is "self contained" ( pun intended ), and it has everything it needs to serve the application. All you need to do is run it.  Magic! 
 
 With this simple command as a developer you were able to avoid:
 
