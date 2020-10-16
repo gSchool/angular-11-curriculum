@@ -4,18 +4,18 @@
 CI / CD ( Continuous Integration / Continuous Delivery ) is one of the corner stones of the software development lifecycle at T-Mobile. 
 
 ## Continuous Integration
-*Continuous Integration* , or "CI" was born out of the need to scrutinize all code before it gets merged into the commmon code base or branch within an organization. CI is the proces of running builds, tests, and other quality control methods to make sure that developers are not introducing new bugs into shared code, while also making sure that new code does not break existing code. 
+*Continuous Integration* , or "CI" was born out of the need to scrutinize all code before it gets merged into the commmon codebase or branch within an organization. CI is the process of running builds, tests, and other quality control methods to make sure that developers are not introducing new bugs into shared code, while also making sure that new code does not break existing code. 
 
-The best way to appreciate the value of continuous intergration is to think about what it is like when working on a team of developers who are NOT using CI. Without CI, it is possible for several developers to write new code or modify old code on their respective branch and merge that code into the shared code base only to discover a few days later that "someone" broke the build. Without CI, it can be difficult and time consuming to figure out who that "someone" was. With CI, that "someone" will discover their errors very shortly after they push their code to GitLab or whichever source control hub the organization is using. We will be covering that process in the next unit on pipelines. 
+The best way to appreciate the value of continuous intergration is to think about what it is like when working on a team of developers who are NOT using CI. Without CI, it is possible for several developers to write new code or modify old code on their respective branch and merge that code into the shared codebase only to discover a few days later that "someone" broke the build. Without CI, it can be difficult and time consuming to figure out who that "someone" was. With CI, that "someone" will discover their errors very shortly after they push their code to GitLab or whichever source control hub the organization is using. We will be covering that process in the next unit on pipelines. 
 
 ## Continuous Delivery
-*Continuous Delivery* or "CD" is the process of deploying an applicaiton from GitLab once the CI process is complete. This is ultimately designed to be a time saver. If the code has passed all vetting, it is deemed to be safe to continue its journey in the deployment process. This may mean deploying the code to a staging environemnt, ephermal servers that house temporary builds, or even production in some cases. 
+*Continuous Delivery* or "CD" is the process of deploying an application from GitLab once the CI process is complete. This is ultimately designed to be a time saver. If the code has passed all vetting, it is deemed to be safe to continue its journey in the deployment process. This may mean deploying the code to a staging environemnt, ephemeral servers that house temporary builds, or even to production. 
 
-The CI/CD process typically allows you to push code, build the code, test the code, and deploy the code to prodcution. No more "pushing" code from a developers computer without going through a vetting process. 
+The CI/CD process typically allows you to push code, build the code, test the code, and deploy the code to production. No more "pushing" code from a developer's computer without going through a vetting process. 
 
-A healthy CI / CD pipeline infrastructure is critical for developers working within a *trunk based development* environment where developers need to be able to deploy their own code to production frequently while, at the same time, having a quality-control method to ensure that every single push to source control does not introduce bugs into the code base. 
+A healthy CI/CD pipeline infrastructure is critical for developers working within a *trunk based development* environment where they need to be able to deploy their own code to production frequently while also having a quality-control method to ensure that every single push to source control does not introduce bugs into the codebase. 
 
-In this unit, you will be creating your own CI / CD pipeline in GitLab. 
+In this unit, you will be creating your own CI/CD pipeline in GitLab. 
 
 
 ### !challenge
