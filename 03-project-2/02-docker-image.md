@@ -26,24 +26,28 @@ CMD java -jar springweb.jar
 
 Read the comments of the file to understand what each command is doing. 
 
-**Dockerfile**s are used to define how your application should run. Everyone on your team will use this to run and/or deploy this app as a service.
+**Dockerfile**s are used to define how your application should run.  
 
 Finally, build and run the app: 
 
-```bash
-# Step 1: Build. Think of the tag as the build version for the Docker Image. The period at the end means "here", the current directory.
+
+### Step 1: Build. 
+Think of the tag as the build version for the Docker Image. 
+The period at the end means "here", the current directory.
 docker build -t apidemo:latest .
 
-# Step 2: Run apidemo. Flag for instant removal (--rm) run on port 8080, and name the instance apiContainer 
+### Step 2: Run apidemo. 
+Flag for instant removal (--rm) run on port 8080, and name the instance apiContainer 
+```bash
 docker run --rm -p 8080:8080 --name=apiContainer apidemo
+```
 
-# OR run as a detached container instead, which does the same thing. Try both!
+### OR run as a detached container instead, which does the same thing. Try both!
 docker run -d -p 8080:8080 --name=apiContainer apidemo
 
-# Step 3: Open your browser to localhost:8080 to see your app running.
+### Step 3: Open your browser to localhost:8080 to see your app running.
 You should see a default error landing page that looks like this: 
 
-```
 
 ![](springLanding.png)
 
@@ -58,7 +62,7 @@ http://localhost:8080/movies
  
 
 You should see a list of movies as such: 
- 
+```
 [
  {
   "id": 1,
@@ -73,15 +77,16 @@ You should see a list of movies as such:
   "title": "Quilombo"
  }
 ]
- 
+```
 
 We are hitting the '/movies' endpoint and getting data. This data is not coming from a database ( yet ) ; it is simply being served from a static array in a Spring Boot app controller which is running in the container.  
 
 
-```bash
-Step 4: Stop your container (stop it with the name we provided ) 
-docker container stop apiContainer
+ 
+### Step 4: Stop your container (stop it with the name we provided ) 
 
+```bash
+docker container stop apiContainer
 ```
 
 > NOTE: If you don't provide a tag (image name) Docker assumes 'latest'. Make sure you're working from the correct image! Here we are working from apidemo:latest even though we didn't provide 'latest'.
