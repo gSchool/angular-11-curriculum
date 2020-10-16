@@ -95,3 +95,21 @@ Standards:
         Type: Lesson
         UID: 167ba5ab6f9c14fdf6abb7ac44d95c6d
         Path: /04-project-3/09-in-class-assessment.md
+  -
+    Title: Project 4
+    Description: Project 4 
+    UID: z50373b610z110f809bab5cc85e5e15z
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - Type: Lesson
+        UID: Z1EM6ZSM39YPMBCS5ZWB7WMNGZ
+        Path: /05-project-4/00-intro.md
+      -
+        Type: Lesson
+        UID: Z722f42cc16f0ea3613811e30ebbe9bz
+        Path: /05-project-4/01-kubernetes.md
+      -
+        Type: Lesson
+        UID: Z6b9fa5z1bface94e15d71256a40da9r
+        Path: /05-project-4/02-conducktor.md
