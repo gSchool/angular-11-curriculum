@@ -2,29 +2,25 @@
 
 Now that you've installed Docker have seen how it works, we'll get started by creating our own Docker image.
 
-1. Make sure you've cloned this repository.
+1. Make sure you've cloned [this repository](https://gitlab.com/nmuta-jones-tmo/heroku-spring)
 2. Add a new file to it named `Dockerfile`
 3. Open the project in your code editor and edit the `Dockerfile`.
 4. Copy and paste the following into it:
 
 ```Dockerfile
-# Use Java distribution from Docker
-FROM openjdk:11-jdk
+# Use Open JDK as base image
+FROM openjdk:8-jdk-alpine
+# Set the working directory
+WORKDIR /
 
-# Temporary data storage used by data services like Redis
-VOLUME /tmp
+# Take the jar from the build folder and add it to project as springweb.jar
+ADD build/libs/springweb-0.0.1-SNAPSHOT.jar springweb.jar
 
-# Working directory for this app
-WORKDIR /app
+# Expose PORT 8080
+EXPOSE 8080
 
-# Copy this application to a new location
-COPY . /app
-
-# Build
-CMD ["./gradlew", "build", "docker"]
-
-# Run the application from the app build folder
-ENTRYPOINT ["java","-jar","/app/build/libs/gs-spring-boot-0.1.0.jar"]
+# Invoke java executable and run the springweb.jar file
+CMD java -jar springweb.jar
 ```
 
 Read the comments of the file to understand what each command is doing. 
@@ -34,22 +30,19 @@ Read the comments of the file to understand what each command is doing.
 Finally, build and run the app: 
 
 ```bash
-# Step 1: Build. Think of the tag as the build version for the Docker Image
+# Step 1: Build. Think of the tag as the build version for the Docker Image. The period at the end means "here", the current directory.
 docker build -t apidemo:latest .
 
-# Step 2: Run. Name the Container instance apidemo and run app port 8080 on local 4000. 
-docker run -p 4000:8080 apidemo
+# Step 2: Run apidemo. Flag for instant removal (--rm) run on port 8080, and name the instance apiContainer 
+docker run --rm -p 8080:8080 --name=apiContainer apidemo
 
 # OR run as a detached container instead, which does the same thing. Try both!
-docker run -d -p 4000:8080 apidemo
+docker run -d -p 8080:8080 --name=apiContainer apidemo
 
-# Step 3: Open your browser to localhost:4000 to see your app running.
+# Step 3: Open your browser to localhost:8080 to see your app running.
 
-# Step 4: Stop your container. To stop a detached container, first get the container ID
-docker container ls
-
-# ...then use the stop command
-docker container stop paste_container_id_here
+# Step 4: Stop your container (stop it with the name we provided ) 
+docker container stop apiContainer
 
 ```
 
