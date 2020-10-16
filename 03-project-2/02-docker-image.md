@@ -10,6 +10,7 @@ Now that you've installed Docker have seen how it works, we'll get started by cr
 ```Dockerfile
 # Use Open JDK as base image
 FROM openjdk:8-jdk-alpine
+
 # Set the working directory
 WORKDIR /
 
@@ -41,7 +42,12 @@ docker run -d -p 8080:8080 --name=apiContainer apidemo
 
 # Step 3: Open your browser to localhost:8080 to see your app running.
 You should see a default error landing page that looks like this: 
+
+```
+
 ![](springLanding.png)
+
+ 
 
 That means you are succesfully running your Java Spring Boot container and it is being displayed on port 8080 in your browser. 
 
@@ -49,9 +55,10 @@ When you visit this route:
 ```
 http://localhost:8080/movies
 ```
+ 
 
 You should see a list of movies as such: 
-```
+ 
 [
  {
   "id": 1,
@@ -66,13 +73,13 @@ You should see a list of movies as such:
   "title": "Quilombo"
  }
 ]
-```
+ 
 
 We are hitting the '/movies' endpoint and getting data. This data is not coming from a database ( yet ) ; it is simply being served from a static array in a Spring Boot app controller which is running in the container.  
 
 
-
-# Step 4: Stop your container (stop it with the name we provided ) 
+```bash
+Step 4: Stop your container (stop it with the name we provided ) 
 docker container stop apiContainer
 
 ```
@@ -96,7 +103,5 @@ After finishing this unit, you should feel comfortable adding Docker files, buil
 
 
 In the next unit we will talk about how to share your apps.
-
-
 
 
