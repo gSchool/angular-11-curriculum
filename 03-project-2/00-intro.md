@@ -11,8 +11,8 @@ By the end of this lesson, trainees will be able to:
 
 
 ### Core subjects and competencies : 
-A history of Docker and containerization, 
-A brief history of cloud computing and web services, 
-Taking the app we deployed to PCF in the first project and containerizing it using Docker.
+- A history of Docker and containerization
+- A brief history of cloud computing and web services
+- Taking the app we deployed to PCF in the first project and containerizing it using Docker
 
  

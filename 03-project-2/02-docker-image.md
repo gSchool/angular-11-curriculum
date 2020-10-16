@@ -2,7 +2,7 @@
 
 Now that you've installed Docker have seen how it works, we'll get started by creating our own Docker image.
 
-1. Make sure you've cloned this repository.
+1. Make sure you've cloned this repository. (TODO @nmuta : LINK?)
 2. Add a new file to it named `Dockerfile`
 3. Open the project in your code editor and edit the `Dockerfile`.
 4. Copy and paste the following into it:
