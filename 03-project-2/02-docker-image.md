@@ -40,6 +40,37 @@ docker run --rm -p 8080:8080 --name=apiContainer apidemo
 docker run -d -p 8080:8080 --name=apiContainer apidemo
 
 # Step 3: Open your browser to localhost:8080 to see your app running.
+You should see a default error landing page that looks like this: 
+![](springLanding.png)
+
+That means you are succesfully running your Java Spring Boot container and it is being displayed on port 8080 in your browser. 
+
+When you visit this route: 
+```
+http://localhost:8080/movies
+```
+
+You should see a list of movies as such: 
+```
+[
+ {
+  "id": 1,
+  "title": "Lion King"
+ },
+ {
+  "id": 2,
+  "title": "Daughters of the Dust"
+ },
+ {
+  "id": 3,
+  "title": "Quilombo"
+ }
+]
+```
+
+We are hitting the '/movies' endpoint and getting data. This data is not coming from a database ( yet ) ; it is simply being served from a static array in a Spring Boot app controller which is running in the container.  
+
+
 
 # Step 4: Stop your container (stop it with the name we provided ) 
 docker container stop apiContainer
@@ -48,14 +79,23 @@ docker container stop apiContainer
 
 > NOTE: If you don't provide a tag (image name) Docker assumes 'latest'. Make sure you're working from the correct image! Here we are working from apidemo:latest even though we didn't provide 'latest'.
 
-### VIDEO DEMO: Dockerizing a simple Python HTTP Server
+If you would prefer to see a live video of this entire process of Dockerizing a Java app, the video below shows that process. If you already feel comfortable, feel free to skip over the Java video and go straight to the *Dockerizing a simple Python HTTP Server* video to continue this lesson. 
 
+
+### OPTIONAL VIDEO : Dockerizing the Java Spring app 
+[![](video-player.png)](https://drive.google.com/file/d/15GY-d7sVbpwxGufHigxAxy5BMVzEyMoX/view) 
+
+
+
+### VIDEO DEMO: Dockerizing a simple Python HTTP Server
 [![](video-player.png)](https://drive.google.com/file/d/1uGwCTZZ8hdpNxHjk8YLC3Bu6nR1Ad9Mg/view?usp=sharing) 
 
 
 
+After finishing this unit, you should feel comfortable adding Docker files, building Docker images, running Docker containers locally on a port ( if applicable ), and stopping containers. You should repeat this process until you feel comfortable with the mechanics of everthing. 
 
-You've built a Docker app. But you're using Docker for a reason: to share and collaborate. Next we'll talk about how to share your apps.
+
+In the next unit we will talk about how to share your apps.
 
 
 
