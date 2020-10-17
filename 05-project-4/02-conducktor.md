@@ -68,7 +68,7 @@ Deploying to Conducktor takes a lot of steps.  Be patient with yourself, allow f
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1l1_AcS5Yp4NKAiHNfSCTm5BKpUtFBGws/view'> <img src="video-player.png"> </a>
+  <a href='https://drive.google.com/file/d/1yAsHU9cpw8yjD3KGA_QhiK2Ly4ZWxRKE/view'> <img src="video-player.png"> </a>
 </td> 
 <td> Fixed pipelines and final deploy  </td>
 </tr>
