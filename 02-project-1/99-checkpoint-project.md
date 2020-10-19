@@ -16,7 +16,9 @@ At this point, you have the skills to create a CI / CD pipelines for one of your
 Feel free to use the existing "starter" GitLab projects if you are short on time or simply just need the convenience of projects with some of the work done for you: 
 
 [COIN COUNTER](https://gitlab.com/nmuta-jones-tmo/coincounter/) : An Angular project already set up to deploy to PCF 
+
 [HEROKU SPRING APP](https://gitlab.com/nmuta-jones-tmo/heroku-spring) : A Java Spring Boot app already set up to deploy to Heroku 
+
 [HEROKU ANGULAR](https://gitlab.com/nmuta-jones-tmo/heroku-angular) : An Angular app already set up to deploy to Heroku 
 
 If you clone one of the above projects, your job would be to simply get pipelines working with your own accounts on GitLab and Heroku . 
