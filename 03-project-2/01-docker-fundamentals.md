@@ -3,7 +3,7 @@
 
 Take 5 minutes to [download and install Docker on your local machine.](https://docs.docker.com/engine/installation/)
 
-Then check to make sure it's up and running:
+Launch Docker Desktop and then check to make sure it's up and running:
 
 ```
 # check docker version
@@ -21,17 +21,17 @@ If this doesn't work, let your instructors know.
 
 ## Images and Containers
 
-**Images** represent your application package and it's setup and configuration are defined within the Dockerfile.
+**Images** represent your application package. Its setup and configuration are defined within a constructed Dockerfile.
 
 **Containers** are *running instances* of your application image. 
 
-What makes containers so consistent for you and your team is that Docker handles the environment setup so that all anyone has to do to run the app is run a Docker container.
+What makes containers so consistent for you and your team is that Docker handles the environment setup so that all anyone has to do to run the app is spin up a Docker container from your image.
 
 Let's try it.
 
 ## Running a Docker App
 
-Now that you have Docker installed, let's see just how easy it is to use an existing application. Pull and run ths project from Docker:
+Now that you have Docker installed, let's see just how easy it is to use an existing application. Pull and run this project from Docker:
 
 ```
 # Tell Docker to pull a simple html app repository with tag 'latest' and run it 
@@ -39,12 +39,14 @@ Now that you have Docker installed, let's see just how easy it is to use an exis
 docker container run --rm -it -p 8080:8080/tcp nmuta/python_serv:latest
 ```
 
-You should see some header text that says
+Go to http://localhost:8080 with your browser. You should see some header text that says:
 
 ```
-Congratulations! 
+Congratulations!
+You are now running an image on your machine locally from Docker Hub ! 
 ```
-With some other text on the page. This image has been pulled from a public repo and is now running locally on your computer. It is a simple HTML page being served up with a python server, but you do NOT need Python to be installed on your machine, you don't need the files, all you need is Docker, which runs this container. The container is "self contained" ( pun intended ), and it has everything it needs to serve the application. All you need to do is run it.  Magic! 
+
+This image has been pulled from a public repo and is now running locally on your computer. It is a simple HTML page being served up with a python server, but you do NOT need Python to be installed on your machine, you don't need the files, all you need is Docker, which runs this container. The container is "self contained" ( pun intended ), and it has everything it needs to serve the application. All you need to do is run it.  Magic! 
 
 With this simple command as a developer you were able to avoid:
 

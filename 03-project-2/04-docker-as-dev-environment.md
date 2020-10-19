@@ -5,7 +5,7 @@ Pipelines can take a long time to complete. There are several shortcuts that may
 
 The video below demonstrates how you can use disk mounting with Docker to optimize the testing process before pushing your project to GitLab.
 
-Watch the video below. Then obtain a Docker image that has tests in it, mount the image localy on your machine, and run the tests locally as shown below. When you are comfortable with this process, record the procedure, upload it to the cloud ( YouTube, GoogleDrive, etc.) and paste the link of the uploaded video below. 
+Watch the video below. Then obtain a Docker image that has tests in it, mount the image locally on your machine, and run the tests as shown below. When you are comfortable with this process, record the procedure, upload it to the cloud ( YouTube, Google Drive, etc.) and paste the link of the uploaded video below. 
 
 ### VIDEO: Docker as a development environment
 
