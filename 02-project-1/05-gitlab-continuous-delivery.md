@@ -10,7 +10,7 @@ You will also need to install the Heroku CLI before beginning. Instructions to d
 
 Please note that this video series will first walk you through setting up a back end Heroku CI / CD pipeline in GitLab. If you are new to the subject, whether you are a front or back end dev, you should watch the entire series. Front end is covered in the final videos, but the front end process builds upon the knowledge gained by understanding the inital examples that illustrate the process for back end. 
 
-If you are already familair with this process, you are free to skip any or all of the vidoes and proceed straight to the project. 
+If you are already familiar with this process, you are free to skip any or all of the vidoes and proceed straight to the project. 
 
 ### !callout-info
 # Videos: Setting up a Heroku CI / CD pipeline in Gitlab
