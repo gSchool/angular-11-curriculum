@@ -70,9 +70,9 @@ Standards:
         UID: c438e0865fce4b924f85bc2c777dcc16
         Path: /03-project-2/04-docker-as-dev-environment.md
       -
-        Type: Lesson
+        Type: Checkpoint
         UID: 5e18ad396472ab784cd5a8205c00dea4
-        Path: /03-project-2/05-project.md
+        Path: /03-project-2/99-checkpoint-project.md
   -
     Title: Sprint 3
     Description: Project 3
