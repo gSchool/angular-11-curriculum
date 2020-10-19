@@ -8,7 +8,7 @@
 ---
 Standards:
   -
-    Title: Project 1
+    Title: Sprint 1
     Description: Project 1
     UID: 3b387536d51e5c045256364275533aa4
     SuccessCriteria:
@@ -43,7 +43,7 @@ Standards:
         UID: fbf6634a37b680cfc48ea81aaebfda03
         Path: /02-project-1/99-checkpoint-project.md
   -
-    Title: Project 2
+    Title: Sprint 2
     Description: Project 2
     UID: 5c45840688ea32fabb97efc1bb6bb9bb
     SuccessCriteria:
@@ -74,7 +74,7 @@ Standards:
         UID: 5e18ad396472ab784cd5a8205c00dea4
         Path: /03-project-2/05-project.md
   -
-    Title: Project 3
+    Title: Sprint 3
     Description: Project 3
     UID: a50373b610d110f809bab5cc85e5e156
     SuccessCriteria:
