@@ -15,4 +15,4 @@ A history of Docker and containerization,
 A brief history of cloud computing and web services, 
 Taking the app we deployed to PCF in the first project and containerizing it using Docker.
 
- 
+ You will know that you have successfully mastered these objectives and you are ready to move on when you can complete this unit's [checkpoint project](./99-checkpoint-project.md).
