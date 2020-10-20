@@ -51,6 +51,12 @@ cf logs USER-SERVICE
 
 Organizations are within the platform, and within those organizations there are spaces. Effectively, these are just folders to keep your applications organized. Often times, clients use organizations to separate their teams, and spaces to separate their test, production, and other environments. Clients can also restrict user access to organizations and spaces to keep their infrastructure secure.
 
+### VIDEO DEMO: Creating a Manifest
+[![](video-player.png)](https://drive.google.com/file/d/1kcz9gN1pZ3CGfrARFaH8KmfKqHf__o9h/view?usp=sharing)
+
+### VIDEO DEMO: PCF Manual Deployment
+[![](video-player.png)](https://drive.google.com/file/d/1meZbVHt5UEOsdKaIR3Xp8-TiH_xjYV0p/view?usp=sharing)
+
 ### Manual Deployment
 
 In order to deploy an application to a Cloud Foundry instance, you need a login, the instance URL, and the [CF CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html) to be installed. Additionally, the server must support the type of application you are pushing, and either you or the server must provide a buildpack for your application's language.
