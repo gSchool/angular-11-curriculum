@@ -4,7 +4,7 @@
 
 For this assessment you will be deploying a provided application to PCF.
 
-First, clone [this project](https://gitlab.com/tmobile/workforce-transformation/onboarding-bootcamps/cohort-1-exercise-submissions/hello-world).
+First, create an application to push to PCF.
 
 Then, create a `manifest.yml` file. Put in the base requirement for the application and name it with your first name, followed by the initial of your last name, followed by a dash and application in all caps. The name should look like `JOHND-APPLICATION`.
 
@@ -19,7 +19,7 @@ PCF_ORG: "Workforce-Transformation-Onboarding"
 PCF_SPACE: "Cohort-B"
 ```
 
-Finally, create a repository in GitLab, change the origin to the new link, and push up your code.
+Finally, create a repository in GitLab, change the origin to the repository link, and push up your code.
 
 After pushing the assessment to GitLab, you can find the link to your application by going to `CI/CD > Jobs`. Then select the deploy-dev job. Within the logs there is a route which will be the URL to your application.
 
