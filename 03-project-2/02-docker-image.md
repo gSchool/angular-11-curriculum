@@ -103,6 +103,15 @@ If you would prefer to see a live video of this entire process of Dockerizing a 
 [![](video-player.png)](https://drive.google.com/file/d/1uGwCTZZ8hdpNxHjk8YLC3Bu6nR1Ad9Mg/view?usp=sharing) 
 
 
+### VIDEO DEMO: Dockerizing an Angular app 
+[![](video-player.png)](https://drive.google.com/file/d/1pkk6z-WucD8Hqa3OfiqLjtmr1uKhOGuu/view) 
+
+
+
+
+
+
+
 
 After finishing this unit, you should feel comfortable adding Docker files, building Docker images, running Docker containers locally on a port ( if applicable ), and stopping containers. You should repeat this process until you feel comfortable with the mechanics of everthing. 
 
