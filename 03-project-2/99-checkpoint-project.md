@@ -6,7 +6,7 @@ Then get a project from one of your peers' DockerHub registries and run it local
 
 Create a short video of you running your local project from the command line and then, in the same video, show how you are running the docker image from your peer on your local machine. 
 
-Ideally, your demo should include one front end project and one back end project. It does not matter which belongs to whom. 
+Ideally, your demo should include one frontend project and one backend project. It does not matter which belongs to whom. 
 
 ### !challenge
 * type: project

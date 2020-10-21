@@ -2,13 +2,13 @@
 
 So you've created an image for your application. Now you need to upload it somewhere so that your team can use it and deploy it.
 
-For this, we use a **Registry** which, in plain terms, is a cloud service that hosts all of your docker images. It's a server where the team stores your collection repositories. And each repository can contain any number of docker images.
+For this, we use a **registry** which, in plain terms, is a cloud service that hosts all of your docker images. A team can set up a registry server that stores and provides your collection repositories. Each repository can contain any number of docker images.
 
 ### More on Images
 
-The images are represented by the tag names you've been creating, such as 'latest'. So adding a new image to a repository is as simple as giving it a new tag. 
+Images are represented by the tag names you've been creating, such as 'latest'. Adding a new image to a repository is as simple as giving it a new tag. 
 
-This is why we can think of tags as different versions of the app. You can imagine a repository might have beta, dev, and production tags for any given version of your application.
+We can think of tags as different versions of the app. You can imagine a repository might have beta, dev, and production tags for any given version of your application.
 
 ### Docker Hub
 

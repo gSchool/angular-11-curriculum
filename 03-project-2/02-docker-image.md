@@ -34,7 +34,11 @@ Finally, build and run the app:
 ### Step 1: Build. 
 Think of the tag as the build version for the Docker Image. 
 The period at the end means "here", the current directory.
+```bash
 docker build -t apidemo:latest .
+docker image ls
+```
+You should now see your apidemo image along with an openjdk image which we needed to build our apidemo image.
 
 ### Step 2: Run apidemo. 
 Flag for instant removal (--rm) run on port 8080, and name the instance apiContainer 
@@ -85,6 +89,11 @@ We are hitting the '/movies' endpoint and getting data. This data is not coming 
  
 ### Step 4: Stop your container (stop it with the name we provided ) 
 
+If you ran your container detached, you can see your running containers with this command. 
+```bash
+docker ps -a
+```
+This gives you a lot of relavant information about your containers, even ones that have stopped running. You can stop containers with their CONTAINER ID or a supplied name. Earlier we named our container apiContainer and we can stop it with:
 ```bash
 docker container stop apiContainer
 ```

@@ -14,6 +14,9 @@ You can find the templates at https://www.gitlab.com/tmobile/templates
 
 All templates have documentation on how to implement them within your code. They provide a list of mandatory and optional variables that you can use to configure your pipeline. Within the documentation it also provides an `includes` statement that shows how to pull the template into your pipeline.
 
+### VIDEO LESSON: Templates
+[![](video-player.png)](https://drive.google.com/file/d/1z6b4ESynMQTfH3ee7lfWr1WOj7CvL9fI/view?usp=sharing)
+
 ### Functions and Jobs
 
 Being pulled in by the includes statement, there are functions and jobs. Functions provide the code that is input into your pipeline; you can find them within the gitlab-ci folder inside the templates repository. Jobs implement the functions during different stages of development based upon the branch names used for each push.
