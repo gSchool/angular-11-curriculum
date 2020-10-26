@@ -36,7 +36,7 @@ Thank you for your submission! 😀
 * title: T-MOBILE p4 : deployed repos
 
 ##### !question
-## URLs of your deployed containers in Conducktor
+## URLs of your deployed repos in Conducktor
 URLs of your deployed repos  
 ##### !end-question
 
