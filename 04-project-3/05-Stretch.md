@@ -1,5 +1,8 @@
 # Stretch Goal: Deployment with Eureka
 
+### VIDEO DEMO: Setting Up a Eureka Instance
+[![](video-player.png)](https://drive.google.com/file/d/16J2NfjMF8maGopameIkYJ-GalaOFvuVt/view?usp=sharing)
+
 ### VIDEO DEMO: Using Eureka Client
 [![](video-player.png)](https://drive.google.com/file/d/1b8jrsA_PKLhvYMbdgzzCEvnTdlkR7jdN/view?usp=sharing)
 

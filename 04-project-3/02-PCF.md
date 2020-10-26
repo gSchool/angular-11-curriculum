@@ -61,6 +61,10 @@ Organizations are within the platform, and within those organizations there are 
 
 In order to deploy an application to a Cloud Foundry instance, you need a login, the instance URL, and the [CF CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html) to be installed. Additionally, the server must support the type of application you are pushing, and either you or the server must provide a buildpack for your application's language.
 
+### !callout-info
+Make sure to install cf CLI v6 to work with T-Mobile's CF configuration or you may run into errors upon login.
+### !end-callout
+
 First construct a `manifest.yml` file within your project. The base information within is
 ```java
 ---

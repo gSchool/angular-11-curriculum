@@ -54,6 +54,9 @@ Which of the following can you do with the templates?
 
 These will often also call on scripts, which are located within the script folder on the template repository. They are written in bash and often contribute the majority of getting the templates to work. Being able to read and understand the script level of the templates is key in operating and debugging them.
 
+### VIDEO DEMO: Setting Up a CI/CD Pipeline on T-Mobile's GitLab
+[![](video-player.png)](https://drive.google.com/file/d/17knGGhJrdMFONVkhNiYpyBNYPBMaaDHg/view?usp=sharing)
+
 ## Continuous Delivery Platform Team
 
 The Continuous Delivery Platform (CDP) Team is a team within T-Mobile, and they are in charge of the templates. They are available to provide support whenever needed within the `#cdp-support` channel on Slack.

@@ -1,10 +1,10 @@
 ## Deploy your app to Conducktor
 
-In this lesson, we will take an application and deploy it to Conducktor. You will, ideally, be able to deploy a back end Spring Boot Microservice _and_ a front end Angular application that will talk to each other within our provisioned Conducktor namespace at T-Mobile. 
+In this lesson, we will take an application and deploy it to Conducktor. You will, ideally, be able to deploy a backend Spring Boot microservice _and_ a frontend Angular application that will talk to each other within our provisioned Conducktor namespace at T-Mobile. 
 
-Deploying to Conducktor takes a lot of steps.  Be patient with yourself, allow for error, and keep working through all of these exercises until you get the deployment right. In the end, you will gain a better understanding of how things are set up in Conducktor and you will be one step closer to understanding how Microservice deployments work within T-Mobile's Conducktor ecosystem. 
+Deploying to Conducktor takes a lot of steps. Be patient with yourself, allow for error, and keep working through all of these exercises until you get the deployment right. In the end, you will gain a better understanding of how things are set up in Conducktor and you will be one step closer to understanding how microservice deployments work within T-Mobile's Conducktor ecosystem. 
 
- Note: if you need to encode to base64 on windows, you can use [base64encode.org](https://www.base64encode.org/)
+ Note: if you need to encode to base64 on a Windows environment, you can use [base64encode.org](https://www.base64encode.org/)
 
 
 <table>
@@ -27,21 +27,21 @@ Deploying to Conducktor takes a lot of steps.  Be patient with yourself, allow f
 <td> 
   <a href='https://drive.google.com/file/d/1ItKznx_w1btrsddxfODIXFKLP4DXAtwV/view'> <img src="video-player.png"> </a>
 </td> 
-<td>Setting up Environment vars in Gitlab for Conducktor  </td>
+<td>Setting up environment variables in Gitlab for Conducktor  </td>
 </tr>
 
 <tr>
 <td> 
   <a href='https://drive.google.com/file/d/1-0etK3ktoG68Ix7jrhLy4xpt-5_OAWU9/view'> <img src="video-player.png"> </a>
 </td> 
-<td>Adding the .gitlab-ci.yml file . THIS VIDEO IS OPTIONAL ! If you don't want to hear the boring details about this file, you can just copy the file from the section at the bottom of the page and skip this video. Make sure to run it through a linter if the formatting gets messed up in the copy / paste process.  </td>
+<td>Adding the .gitlab-ci.yml file. THIS VIDEO IS OPTIONAL! If you don't want to hear the boring details about this file, you can just copy the file from the section at the bottom of the page and skip this video. Make sure to run it through a linter if the formatting gets messed up in the copy / paste process.  </td>
 </tr>
 
 <tr>
 <td> 
   <a href='https://drive.google.com/file/d/1dQAeZ5S8bh6NN-fX7YIT4DKTc49mB7jk/view'> <img src="video-player.png"> </a>
 </td> 
-<td>Adding the JINJA file ( dev_deploy_info.yaml.j2 ) or whatever you want to call it... just needs to end in j2 and match what's in your gitlab-ci.yml file ( see below )  </td>
+<td>Adding the JINJA file ( dev_deploy_info.yaml.j2 ) the file extension must end in j2 and match what's in your .gitlab-ci.yml file (see below).  </td>
 </tr>
 
 
@@ -49,7 +49,7 @@ Deploying to Conducktor takes a lot of steps.  Be patient with yourself, allow f
 <td> 
   <a href='https://drive.google.com/file/d/1eniIMmw3qwc2jJeRJAbqGGdohXaAM05r/view'> <img src="video-player.png"> </a>
 </td> 
-<td>Adding our Conducktor secrets and creating our .j2 file. This is the most intricate of all of the videos. Nobody should skip this ! Please watch carefully.  </td>
+<td>Adding our Conducktor secrets and creating our .j2 file. This is the most intricate of all of the videos. Do not skip this video! Please watch carefully.  </td>
 </tr>
 
 <tr>
@@ -70,7 +70,7 @@ Deploying to Conducktor takes a lot of steps.  Be patient with yourself, allow f
 <td> 
   <a href='https://drive.google.com/file/d/1yAsHU9cpw8yjD3KGA_QhiK2Ly4ZWxRKE/view'> <img src="video-player.png"> </a>
 </td> 
-<td> Fixed pipelines and final deploy  </td>
+<td> Fixed pipelines and final deployment  </td>
 </tr>
 
 
