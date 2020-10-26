@@ -8,6 +8,7 @@ Your Assignment this sprint is to build a project that has
 * A back end that consists of 3 or more microservices 
 * At least one database (for now) that handles all data transactions
 * Deploy all of it to Conducktor 
+* Although your capstones will follow a mobile user / mobile phone theme, project 4 can be anything and any subject that you want it to be. 
 
 ### How will we be building it ? What is due and when ? 
 
