@@ -5,7 +5,7 @@
 By the end of this lesson, trainees will be able to:
 - Collaborate with their respective teams to build full stack projects
 - Complete Wireframes for their projects
-- Write Gherkhin based user stories for their projects
+- Write Gherkin based user stories for their projects
 - Deploy Microservices to T-Mobile's Conducktor platform 
 - Connect either an H2 or SQLite type of database or an external database to the back end
 
