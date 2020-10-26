@@ -6,10 +6,9 @@ We have decided in this cohort, however, to expose you to the concepts behind Ku
 
 
 ### Core subjects and competencies : 
-T-Mobile's Conducktor platform 
-Microservices fundamentals
-Kuberenets fundamentals
-Setting up a Kubernetes cluster locally and populating it with Microservices
+* Kuberenets fundamentals
+* Setting up a Kubernetes cluster locally and populating it with Microservices
+* Creating local Kubernetes deployments
 
 
  
