@@ -1,4 +1,4 @@
-## Conducktor
+## Deploy your app to Conducktor
 
 In this lesson, we will take an application and deploy it to Conducktor. You will, ideally, be able to deploy a back end Spring Boot Microservice _and_ a front end Angular application that will talk to each other within our provisioned Conducktor namespace at T-Mobile. 
 

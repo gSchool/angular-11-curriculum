@@ -8,7 +8,7 @@
 ---
 Standards:
   -
-    Title: Sprint 1
+    Title: Project 1
     Description: Project 1
     UID: 3b387536d51e5c045256364275533aa4
     SuccessCriteria:
@@ -43,7 +43,7 @@ Standards:
         UID: fbf6634a37b680cfc48ea81aaebfda03
         Path: /02-project-1/99-checkpoint-project.md
   -
-    Title: Sprint 2
+    Title: Project 2
     Description: Project 2
     UID: 5c45840688ea32fabb97efc1bb6bb9bb
     SuccessCriteria:
@@ -71,18 +71,15 @@ Standards:
         Path: /03-project-2/04-docker-as-dev-environment.md
       -
         Type: Checkpoint
-        UID: 5e18ad396472ab784cd5a8205c00dea4
+        UID: 3600f78f3a80bc57a3a948d6e59e8489
         Path: /03-project-2/99-checkpoint-project.md
   -
-    Title: Sprint 3
+    Title: Project 3
     Description: Project 3
     UID: a50373b610d110f809bab5cc85e5e156
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      - Type: Lesson
-        UID: 01EM6ZSM39YPMBCS57WB7WMNGE
-        Path: /04-project-3/01-Pipeline-Sldies.pdf
       -
         Type: Lesson
         UID: 1722f42cc16f5ea3613811e30ebbe9bc
@@ -93,7 +90,7 @@ Standards:
         Path: /04-project-3/04-Templates.md
       -
         Type: Lesson
-        UID: b438d909-8341-4c7c-8b39-dc223ed69df6
+        UID: 85ab0a87e99a1908bba0606123a0ec80
         Path: /04-project-3/05-Stretch.md
       -
         Type: Lesson
@@ -101,19 +98,36 @@ Standards:
         Path: /04-project-3/09-in-class-assessment.md
   -
     Title: Project 4
-    Description: Project 4 
-    UID: z50373b610z110f809bab5cc85e5e15z
+    Description: Project 4
+    UID: e8d9f1c89aceec391a1bbfb383fce7e7
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      - Type: Lesson
-        UID: Z1EM6ZSM39YPMBCS5ZWB7WMNGZ
+      -
+        Type: Lesson
+        UID: 983450807871dd716540530b862ab7ee
         Path: /05-project-4/00-intro.md
       -
         Type: Lesson
-        UID: Z722f42cc16f0ea3613811e30ebbe9bz
-        Path: /05-project-4/01-kubernetes.md
+        UID: e3ba9ecf640e6985bedc454d36a9cd81
+        Path: /05-project-4/01-project-overview.md
       -
         Type: Lesson
-        UID: Z6b9fa5z1bface94e15d71256a40da9r
-        Path: /05-project-4/02-conducktor.md
+        UID: 748fce888bdd0a43376c96cca7fe970e
+        Path: /05-project-4/02-vision.md
+      -
+        Type: Lesson
+        UID: e5a693e64c791cc1e1d1224e289c215b
+        Path: /05-project-4/03-design.md
+      -
+        Type: Lesson
+        UID: 6ab72c22f483ed63de315997680cd308
+        Path: /05-project-4/04-build.md
+      -
+        Type: Lesson
+        UID: dac988ce0ab57d47c35cc4aa27f4e16b
+        Path: /05-project-4/08-deploy.md
+      -
+        Type: Lesson
+        UID: ce13edaf7048ad95675d5e75e72af339
+        Path: /05-project-4/09-kubernetes.md
