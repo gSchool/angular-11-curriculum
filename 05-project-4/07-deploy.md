@@ -18,28 +18,28 @@ Deploying to Conducktor takes a lot of steps. Be patient with yourself, allow fo
 
 <tr>
 <td> 
- <a href='https://drive.google.com/file/d/1_yTTAWBNKXRMEn0erPNIeLYANl7l89Py/view'> <img src="video-player.png"> </a>
+ <a href='https://www.youtube.com/watch?v=g2-_jMS64Uc'> <img src="video-player.png"> </a>
 </td> 
 <td>Creating our project in our T-Mobile workspace on Gitlab </td>
 </tr>
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1ItKznx_w1btrsddxfODIXFKLP4DXAtwV/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=Rl2GHzDZAes'> <img src="video-player.png"> </a>
 </td> 
 <td>Setting up environment variables in Gitlab for Conducktor  </td>
 </tr>
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1-0etK3ktoG68Ix7jrhLy4xpt-5_OAWU9/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=zPsN9bay6rQ'> <img src="video-player.png"> </a>
 </td> 
 <td>Adding the .gitlab-ci.yml file. THIS VIDEO IS OPTIONAL! If you don't want to hear the boring details about this file, you can just copy the file from the section at the bottom of the page and skip this video. Make sure to run it through a linter if the formatting gets messed up in the copy / paste process.  </td>
 </tr>
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1dQAeZ5S8bh6NN-fX7YIT4DKTc49mB7jk/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=K0R7FTCGtyo'> <img src="video-player.png"> </a>
 </td> 
 <td>Adding the JINJA file ( dev_deploy_info.yaml.j2 ) the file extension must end in j2 and match what's in your .gitlab-ci.yml file (see below).  </td>
 </tr>
@@ -47,28 +47,28 @@ Deploying to Conducktor takes a lot of steps. Be patient with yourself, allow fo
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1eniIMmw3qwc2jJeRJAbqGGdohXaAM05r/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=hC2iHjLNLvY'> <img src="video-player.png"> </a>
 </td> 
 <td>Adding our Conducktor secrets and creating our .j2 file. This is the most intricate of all of the videos. Do not skip this video! Please watch carefully.  </td>
 </tr>
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1ccKqreFyukWtpE06xG8nNfiCS8nAT8fR/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=p-_kNAcPxtQ'> <img src="video-player.png"> </a>
 </td> 
 <td> Adding some final variables and pushing everything to GitLab to watch pipelines  </td>
 </tr>
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1l1_AcS5Yp4NKAiHNfSCTm5BKpUtFBGws/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=5idi_SPRfyM'> <img src="video-player.png"> </a>
 </td> 
 <td> Debugging pipelines  </td>
 </tr>
 
 <tr>
 <td> 
-  <a href='https://drive.google.com/file/d/1yAsHU9cpw8yjD3KGA_QhiK2Ly4ZWxRKE/view'> <img src="video-player.png"> </a>
+  <a href='https://www.youtube.com/watch?v=SNV7N7yntpk'> <img src="video-player.png"> </a>
 </td> 
 <td> Fixed pipelines and final deployment  </td>
 </tr>
