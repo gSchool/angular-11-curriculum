@@ -14,12 +14,12 @@ These videos will help you get up to speed on Java Spring Boot
 | [![](video-player.png)](https://vimeo.com/441520143/10381663aa)   | A Ping Pong Server | 7:45 |  | 
 | [![](video-player.png)](https://vimeo.com/441520236/8b6d250d50)   | Path Variables | 5:24 |  | 
 | [![](video-player.png)](https://vimeo.com/441520302/a717c5b863)   | Services | 8:27 |  | 
-| [![](video-player.png)](https://vimeo.com/441520430/5562d82bf1)   | JSON Responses | 8:03 |  | 
-| [![](video-player.png)](https://vimeo.com/441520521/c5272e76be)   | JSON Request Bodies | 15:54 |  | 
+| [![](video-player.png)](https://www.youtube.com/watch?v=UDGnjT_1IQQ)   | JSON Responses | 4:02 |  | 
+| [![](video-player.png)](https://www.youtube.com/watch?v=jhewMmhYFQo)   | JSON Request Bodies | 3:52 |  | 
 | [![](video-player.png)](https://vimeo.com/441520747/f4641ff9ed)   | Adding Spring JPA | 4:30 | [Spring Initializer Link](https://start.spring.io) | 
 | [![](video-player.png)](https://vimeo.com/441520804/aa0f845b8e)   | Entities | 4:26 |  | 
 | [![](video-player.png)](https://vimeo.com/441520860/c0d179ff45)   | Repositories | 7:53 |  | 
-| [![](video-player.png)](https://www.youtube.com/watch?v=du4Idhv1K5Q)   | Create/Read Routes | 8:12 |  | 
+| [![](video-player.png)](https://www.youtube.com/watch?v=du4Idhv1K5Q)   | Create/Read Routes | 8:13 |  | 
 | [![](video-player.png)](https://www.youtube.com/watch?v=Xnj7m1LvJ-s)   | Update/Delete Routes | 6:50 |  | 
 | [![](video-player.png)](https://vimeo.com/441521498/01386af732)   | Adding Spring Security | 2:55 | [Spring Initializer Link](https://start.spring.io) | 
 | [![](video-player.png)](https://vimeo.com/441521554/15af855da1)   | Spring Security Defaults | 6:17 |  | 
@@ -31,4 +31,5 @@ These videos will help you get up to speed on Java Spring Boot
 ## Example Code (From/Similar to the Videos)
 
 [https://github.com/gSchool/spring-core-boot-examples](https://github.com/gSchool/spring-core-boot-examples)
+
 [https://github.com/gSchool/spring-web-example](https://github.com/gSchool/spring-web-example)
