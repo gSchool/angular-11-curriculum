@@ -134,7 +134,6 @@ deploy-dev:
     GIT_DEPTH: 1
     CONDUCKTOR_NS: wfo-dev-duck-dev-w2
     CONDUCKTOR_TARGET: duck-dev-w2 
-  extends: .duck_deploy
   environment:
     name: dev
 
