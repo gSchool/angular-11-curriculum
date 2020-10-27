@@ -10,8 +10,8 @@ Deploying to Conducktor takes a lot of steps. Be patient with yourself, allow fo
 <table>
 <tr><th> video </th><th> description </th></tr>
 <tr>
-<td>  
-  <a href='https://drive.google.com/file/d/1pkk6z-WucD8Hqa3OfiqLjtmr1uKhOGuu/view'> <img src="video-player.png"> </a>
+<td> 
+  <a href='https://youtu.be/7VgrSIiaCVA'> <img src="video-player.png"> </a>
 </td> 
 <td>Containerizing an Angular app for deployment to Conducktor </td>
 </tr>

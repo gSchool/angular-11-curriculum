@@ -131,3 +131,14 @@ Standards:
         Type: Checkpoint
         UID: 5749552c4053ac821a34c73c92d6d55a
         Path: /05-project-4/09-checkpoint.md
+  -
+    Title: Project 5
+    Description: Project 5
+    UID: 370f324a3290a2d8d26b37b8de28bb82
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: c5a4576a05be04ead796f63909b07152
+        Path: /06-project-5/99-spring-videos.md
