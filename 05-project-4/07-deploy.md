@@ -6,6 +6,8 @@ Deploying to Conducktor takes a lot of steps. Be patient with yourself, allow fo
 
  Note: if you need to encode to base64 on a Windows environment, you can use [base64encode.org](https://www.base64encode.org/)
 
+ [HERE ARE THE TEXT BASED CONDUCKTOR DEPLOYMENT INSTRUCTIONS](https://docs.google.com/document/d/1N57AuoJiqghSn4ZPKsJXHdzlYGoS_d0bkdWHj5OsBWc/)
+
 
 <table>
 <tr><th> video </th><th> description </th></tr>
@@ -136,5 +138,20 @@ deploy-dev:
     CONDUCKTOR_TARGET: duck-dev-w2 
   environment:
     name: dev
+
+```
+
+
+Here is a raw JSON template of the file that you need to upload in the process of setting up your secrets: 
+
+```
+{ "auths" : 
+{ "registry.gitlab.com" : 
+    { "username" : "<DEPLOY_TOKEN_USERNAME>",
+      "password" : "<DEPLOY_TOKEN_PASSWORD>",
+      "email" : "<GITLAB_TMO_EMAIL>"
+    }
+  }
+}
 
 ```
