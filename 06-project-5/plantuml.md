@@ -1,5 +1,8 @@
 # PUML CFU
 
+### VIDEO DEMO: USING PUML
+[![](video-player.png)](https://drive.google.com/file/d/1bgXy5kkii0BWtEdNZ3OMGEMQSl-vq-Ay/view?usp=sharing)
+
 Answer the questions below to demonstrate your understanding of topics covered today.
 
 <!--BEGIN CHALLENGE-->
@@ -10,7 +13,7 @@ Answer the questions below to demonstrate your understanding of topics covered t
 * id: a7ace77a-5d26-4678-a233-5232e9a28397
 * title: PUML
 * points: 1
-* topics: clearwater, puml
+* topics: puml
 
 ##### !question
 
@@ -41,50 +44,14 @@ What does PUML stand for?
 
 ### !challenge
 
-* type: multiple-choice
-* id: 5a059b61-09d6-4cd5-a0a8-a325b3651703
-* title: How does it work?
-* points: 1
-* topics: clearwater, puml
-
-##### !question
-
-How are PUML diagrams implemented by the user?
-
-##### !end-question
-
-##### !options
-
-* PlantUML UI
-* PlantUML Online Editor
-* PlantUML Generator
-* PlantUML Text
-
-##### !end-options
-
-##### !answer
-
-* PlantUML Text
-
-##### !end-answer
-
-### !end-challenge
-
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
-
-### !challenge
-
 * type: short-answer
 * id: 03d6b22d-4d48-443a-924c-c9910bff90fc
 * title: Your thoughts?
 * points: 1
-* topics: clearwater, puml
+* topics: puml
 
 ##### !question
-Answer 1 or more of the questions below.
-Or provide your own thoughts on PUML.
+Please provide your opinion below.
 
 How do you feel about PUML? 
 Is it cool? 
@@ -117,7 +84,7 @@ You answer here
 * id: 1d8be446-5ec8-4b2e-879f-23c915795633
 * title: Creating a sequence diagram via PUML
 * points: 1
-* topics: clearwater, puml
+* topics: puml
 
 ##### !question
 
@@ -127,18 +94,22 @@ You answer here
 4. Save and push your solution to your repo
 5. Paste the URL to your repo below
 
-- **Customer** goes to tmobile.com **UI**
-- **UI** request user info from **Customer Microservice/API** (CMS/API)
-- **CMS/API** authenticates with **OKTA**
-- **OKTA** sends sucessful authentication to *CMS/API
-- **CMS/API** retrieves customer info from **Customer Database**
-- **CMS/API** send customer information back to **UI**
-- **UI** displayes information to **Customer**
+- **Account Owner** logs into tmobile.com **UI**
+- **UI** performs GET to **TMO_Orchestrator (142.52.9.12/account/${account_number})** inside _TMO_Firewall_
+- **TMO_Orchestrator** authenticates with **TMO_TAAP**
+- **TMO_TAAP** sends successful authentication **TMO_Orchestrator**
+- **TMO_Orchestrator** performs GET to **TMO_UserService (142.52.9.25/user_list/${account_number})**
+- **TMO_UserService** returns a _list_of_users_ to **TMO_Orchestrator**
+- **TMO_Orchestrator** performs GET to **TMO_DeviceService (142.52.9.42/device_list/${list_of_users})**
+- **TMO_DeviceService** returns a _list_of_user_device_pairs_ to **TMO_Orchestrator**
+- **TMO_Orchestrator** returns _account_details_ to **UI** outside _TMO_Firewall_
+- **UI** displays information to **Account Owner**
 
 **Stretch Goal**
 Building off the sequence above:
-- Map out the flow you imagine if the purchased a phone
-    - Hint: remember you'll know check inventory, address, payment, confirmation, tracking and anything else you can think of.
+- Map out the flow of what failed authentication might look like
+- Map the flow you imagine if the account owner wants to add a device
+    - Feel free to make any assumptions necessary
 
 ##### !end-question
 
@@ -149,8 +120,8 @@ Submit Your Repo Here
 ##### !end-placeholder
 
 ##### !hint
-[Start Here](http://www.plantuml.com/plantuml/umla/)
-There are also plugins for IntelliJ and VSCode
+[The Online Editor](http://www.plantuml.com/plantuml/umla/)
+[PUML Docs](https://plantuml.com/)
 ##### !end-hint
 
 ### !end-challenge

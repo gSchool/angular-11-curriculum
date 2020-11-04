@@ -144,5 +144,9 @@ Standards:
         Path: /06-project-5/99-spring-videos.md
       -
         Type: Lesson
-        UID: c5a4576a05be04ead796f63909b07152
-        Path: /06-project-5/101-plantuml.md
+        UID: 01EP8JMTSMPAYGQK76C08J1EKY
+        Path: /06-project-5/clearwater.md
+      -
+        Type: Lesson
+        UID: 01EP8JN6NKXQ0GCW2K0XE8P04Z
+        Path: /06-project-5/plantuml.md
