@@ -1,5 +1,5 @@
 
-# RESTFUL API url check
+# RESTFUL API repo check
 
 ### !callout-info
 # Assignment
@@ -10,11 +10,7 @@ is at least a 2 on the Richardson maturity index and that are fully aligned with
 [T-Mobile API documentation](https://devcenter.t-mobile.com/documents/5ea1ec689a192f5a6ecaa2dc/5ea1ec689a192f5a6ecaa2c7?name=API-Design-Guidelines&sectionName=3.1-API-Patterns)
  
 
- 
-```
 
- 
- 
 
 ### !challenge
 * type: project
