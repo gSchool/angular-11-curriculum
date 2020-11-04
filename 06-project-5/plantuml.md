@@ -88,28 +88,9 @@ You answer here
 
 ##### !question
 
-1. Create a repo
-2. Add a file sendIt.puml
-3. Build a representation of the sequence below
-4. Save and push your solution to your repo
+1. Clone this [repo](https://gitlab.com/tmobile/workforce-transformation/onboarding-bootcamps/cohort-2/puml-exercise)
+2. Follow the instructions in the README.md
 5. Paste the URL to your repo below
-
-- **Account Owner** logs into tmobile.com **UI**
-- **UI** performs GET to **TMO_Orchestrator (142.52.9.12/account/${account_number})** inside _TMO_Firewall_
-- **TMO_Orchestrator** authenticates with **TMO_TAAP**
-- **TMO_TAAP** sends successful authentication **TMO_Orchestrator**
-- **TMO_Orchestrator** performs GET to **TMO_UserService (142.52.9.25/user_list/${account_number})**
-- **TMO_UserService** returns a _list_of_users_ to **TMO_Orchestrator**
-- **TMO_Orchestrator** performs GET to **TMO_DeviceService (142.52.9.42/device_list/${list_of_users})**
-- **TMO_DeviceService** returns a _list_of_user_device_pairs_ to **TMO_Orchestrator**
-- **TMO_Orchestrator** returns _account_details_ to **UI** outside _TMO_Firewall_
-- **UI** displays information to **Account Owner**
-
-**Stretch Goal**
-Building off the sequence above:
-- Map out the flow of what failed authentication might look like
-- Map the flow you imagine if the account owner wants to add a device
-    - Feel free to make any assumptions necessary
 
 ##### !end-question
 
