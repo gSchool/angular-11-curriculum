@@ -9,6 +9,8 @@ Answer the questions below to demonstrate your understanding of topics covered t
 * type: multiple-choice
 * id: a7ace77a-5d26-4678-a233-5232e9a28397
 * title: PUML
+* points: 1
+* topics: clearwater, puml
 
 ##### !question
 
@@ -43,7 +45,7 @@ What does PUML stand for?
 * id: 5a059b61-09d6-4cd5-a0a8-a325b3651703
 * title: How does it work?
 * points: 1
-* topics: pre-assessment, java
+* topics: clearwater, puml
 
 ##### !question
 
@@ -77,6 +79,8 @@ How are PUML diagrams implemented by the user?
 * type: short-answer
 * id: 03d6b22d-4d48-443a-924c-c9910bff90fc
 * title: Your thoughts?
+* points: 1
+* topics: clearwater, puml
 
 ##### !question
 Answer 1 or more of the questions below.
@@ -112,6 +116,8 @@ You answer here
 * type: project
 * id: 1d8be446-5ec8-4b2e-879f-23c915795633
 * title: Creating a sequence diagram via PUML
+* points: 1
+* topics: clearwater, puml
 
 ##### !question
 
