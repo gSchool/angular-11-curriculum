@@ -65,7 +65,7 @@ Thank you for your submission! 😀
 * points: 10 
 
 ##### !question
-## URL of team Jazz repo
+## URL of deployed team Jazz app
 URL of any TEAM Jazz deployed app
 ##### !end-question
 
