@@ -5,7 +5,12 @@
 Jazz is a new T-Mobile technology that allows you to quickly deploy applications with a few clicks. 
 Deployments in Jazz are significantly easier than PCF and Conducktor deployments. 
 
-The documentation for Jazz is so straight forward and simple, we found it best to simply direct you to the existing written documentation.  Addtionally, we have provided a short video to demonstrate how to initiate a Jazz deployment:
+The documentation for Jazz is so straight forward and simple, we found it best to simply direct you to the existing written documentation: 
+
+JAZZ DOCS: [https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/](https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/)
+
+
+Addtionally, we have provided a short video to demonstrate how to initiate a Jazz deployment:
 
 <table>
 <tr><th> video </th><th> description </th></tr>
@@ -33,7 +38,7 @@ The documentation for Jazz is so straight forward and simple, we found it best t
 
 
 
-Documentation for Jazz can be found here: [https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/](https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/)
+Written Documentation for Jazz can be found here: [https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/](https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/)
 
 What's due: 
 
