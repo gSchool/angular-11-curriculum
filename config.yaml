@@ -212,6 +212,10 @@ Standards:
         UID: 82d89db622da03a51d2d57f01cf4103e
         Path: /09-Jazz/00-overview.md
       -
+        Type: Lesson
+        UID: 8b778fcf1a96b7b0e7fa2a7a2522da35
+        Path: /09-Jazz/01-Jazz-SDLC.md
+      -
         Type: Checkpoint
         UID: 2f708aba9258a32ca4122d0459d50fc0
         Path: /09-Jazz/09-checkpoint.md
