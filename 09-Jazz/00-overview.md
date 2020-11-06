@@ -11,31 +11,31 @@ The documentation for Jazz is so straight forward and simple, we found it best t
 <tr><th> video </th><th> description </th></tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/1YJJGAkXzIu2eWHIz6_IG15Qv8FWWFRbh/view'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/1YJJGAkXzIu2eWHIz6_IG15Qv8FWWFRbh/view'> <img src="/assets/video-player.png"> </a>
     </td> 
     <td>Jazz Deployments Part One: starting a deployment </td>
 </tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="/assets/video-player.png"> </a>
     </td> 
     <td>Jazz Deployments Part Two: Configuring your environment </td>
 </tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="/assets/video-player.png"> </a>
     </td> 
     <td>Jazz Deployments Part Two: Configuring your environment </td>
 </tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="/assets/video-player.png"> </a>
     </td> 
     <td>Jazz Deployments Part Three: Final Deployed app </td>
 </tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="/assets/video-player.png"> </a>
     </td> 
     <td>Jazz Deployments Part Three: Final Deployed app </td>
 </tr>
@@ -45,8 +45,7 @@ The documentation for Jazz is so straight forward and simple, we found it best t
 
 
 
-Documentation for Jazz can be found here: 
-https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/
+Documentation for Jazz can be found here: [https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/](https://docs.jazz.corporate.t-mobile.com/using-jazz/start-here/why-jazz/)
 
 What's due: 
 
