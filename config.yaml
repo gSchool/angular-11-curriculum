@@ -154,3 +154,51 @@ Standards:
         Type: Checkpoint
         UID: 0b2d258e0032a504e05cabae2d4270d0
         Path: /06-project-5/09-checkpoint.md
+  -
+    Title: Zero-Trust Security Philosophy @ T-Mobile
+    Description: Zero-Trust Security Philosophy @ T-Mobile
+    UID: a4260533-838a-4332-9b49-c8bdea86350f
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: d38c9a34-875a-4a1c-ad29-c0bb71b2c39b
+        Path: /assets/01-zero-trust-slides.pdf
+      -
+        Type: Lesson
+        UID: 270cbe40-a203-49b0-9527-bb671bd9f5b9
+        Path: /07-zero-trust/02-zero-trust-videos.md
+      -
+        Type: Lesson
+        UID: 0571bc4e-5273-4ddd-a910-5a06372c4f32
+        Path: /07-zero-trust/03-zero-trust-content.md
+      -
+        Type: Lesson
+        UID: aaba38f6-44bb-48f9-8db8-b5dcaeadbdfd
+        Path: /07-zero-trust/04-zero-trust-resources.md
+      -
+        Type: Checkpoint
+        UID: db377520-8907-4733-8b72-71ef3c38d1f8
+        Path: /07-zero-trust/05-checkpoint.md
+  -
+    Title: TAAP Security @ T-Mobile
+    Description: TAAP Security @ T-Mobile
+    UID: 1f61828a-549e-4d07-915c-462efc13d2b6
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: da8b038f-52a9-4935-ac7c-9e54949abd70
+        Path: /08-taap-security/01-taap-videos.md
+      -
+        Type: Lesson
+        UID: b858e8ec-d16b-40ce-9026-f7feff49a5a2
+        Path: /08-taap-security/02-taap-content.md
+      -
+        Type: Checkpoint
+        UID: ded2898b-8ce3-4450-a06a-cbfceb5de93f
+        Path: /08-taap-security/03-checkpoint.md
+    
+    
