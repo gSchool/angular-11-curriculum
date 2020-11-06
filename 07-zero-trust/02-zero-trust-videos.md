@@ -1,6 +1,6 @@
 # Zero-Trust Philosophy Videos
 
-These videos will help you get up to speed on Java Spring Boot 
+These videos will help you get up to speed on Zero-Trust Philosophy at T-Mobile
 
 | video                                                           | subject     | runtime                    |  notes |
 |---                                                        |---          | ---                    |---|

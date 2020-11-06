@@ -190,6 +190,10 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
+        UID: cfae4787-c49b-4fc0-84ed-97f3756478f5
+        Path: /assets/02-taap-slides.pdf
+      -
+        Type: Lesson
         UID: da8b038f-52a9-4935-ac7c-9e54949abd70
         Path: /08-taap-security/01-taap-videos.md
       -
