@@ -155,56 +155,63 @@ Standards:
         UID: 0b2d258e0032a504e05cabae2d4270d0
         Path: /06-project-5/09-checkpoint.md
   -
-    Title: Zero-Trust Security Philosophy @ T-Mobile
-    Description: Zero-Trust Security Philosophy @ T-Mobile
-    UID: a4260533-838a-4332-9b49-c8bdea86350f
+    Title: Zero Trust
+    Description: Zero Trust
+    UID: 95708632a08675f7e77e5312ce2c047c
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: d38c9a34-875a-4a1c-ad29-c0bb71b2c39b
-        Path: /assets/01-zero-trust-slides.pdf
-      -
-        Type: Lesson
-        UID: 270cbe40-a203-49b0-9527-bb671bd9f5b9
+        UID: 8e393ca785c03eb95fbb06ac58548ac0
         Path: /07-zero-trust/02-zero-trust-videos.md
       -
         Type: Lesson
-        UID: 0571bc4e-5273-4ddd-a910-5a06372c4f32
+        UID: 790c429023bd4de4e925d3264e24305c
         Path: /07-zero-trust/03-zero-trust-content.md
       -
-        Type: Lesson
-        UID: aaba38f6-44bb-48f9-8db8-b5dcaeadbdfd
+        Type: Resource
+        UID: a823b4a7e4495ac49175f7b5c535fe51
         Path: /07-zero-trust/04-zero-trust-resources.md
       -
         Type: Checkpoint
-        UID: db377520-8907-4733-8b72-71ef3c38d1f8
+        UID: da097ad73a1e962420da8256c3dbb0bf
         Path: /07-zero-trust/05-checkpoint.md
   -
-    Title: TAAP Security @ T-Mobile
-    Description: TAAP Security @ T-Mobile
-    UID: 1f61828a-549e-4d07-915c-462efc13d2b6
+    Title: Taap Security
+    Description: Taap Security
+    UID: d4277fdf97f7b0d6c9bff5f5134d7e02
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: cfae4787-c49b-4fc0-84ed-97f3756478f5
-        Path: /assets/02-taap-slides.pdf
-      -
-        Type: Lesson
-        UID: da8b038f-52a9-4935-ac7c-9e54949abd70
+        UID: 6714479d42c24d6ee5035faea892cf2b
         Path: /08-taap-security/01-taap-videos.md
       -
         Type: Lesson
-        UID: b858e8ec-d16b-40ce-9026-f7feff49a5a2
+        UID: 7f4dfe82c886fbb258aae6fd203171d0
         Path: /08-taap-security/02-taap-content.md
       -
+        Type: Checkpoint
+        UID: 94d5d91e316c1d5f74ffe6b444c2953d
+        Path: /08-taap-security/03-checkpoint.md
+      -
+        Type: Resource
+        UID: b20ad2f9a0d3a3922e57998c3e660802
+        Path: /08-taap-security/04-taap-resources.md
+  -
+    Title: Jazz
+    Description: Jazz
+    UID: 9a284efda4d46636bd9d5298dfea1335
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
         Type: Lesson
-        UID: bf09ed6a-82e9-44b4-a402-6aea43f2f699
-        Path: /08-taap-security/04-taap-resources.md        
+        UID: 82d89db622da03a51d2d57f01cf4103e
+        Path: /09-Jazz/00-overview.md
       -
         Type: Checkpoint
-        UID: ded2898b-8ce3-4450-a06a-cbfceb5de93f
-        Path: /08-taap-security/03-checkpoint.md
+        UID: 2f708aba9258a32ca4122d0459d50fc0
+        Path: /09-Jazz/09-checkpoint.md
