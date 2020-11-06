@@ -11,7 +11,7 @@ The documentation for Jazz is so straight forward and simple, we found it best t
 <tr><th> video </th><th> description </th></tr>
 <tr>
     <td> 
-    <a href='https://youtu.be/7VgrSIiaCVA'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/16isWYgH-nbxB6jHWD0nyZUR8wTJmf1u7/view'> <img src="video-player.png"> </a>
     </td> 
     <td>Creating an Angular deployment using Jazz </td>
 </tr>
