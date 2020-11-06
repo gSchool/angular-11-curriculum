@@ -61,7 +61,7 @@ Thank you for your submission! 😀
 ### !challenge
 * type: project
 * id: AD7654DE-4B22-APIA-B677-TMO2P2PJAZZ3
-* title: TEAM Jazz repo
+* title: TEAM Jazz app
 * points: 10 
 
 ##### !question
@@ -71,6 +71,27 @@ URL of any TEAM Jazz deployed app
 
 ##### !placeholder
 URL of any TEAM Jazz deployed app
+##### !end-placeholder
+
+##### !explanation
+Thank you for your submission! 😀
+##### !end-explanation
+### !end-challenge
+
+
+### !challenge
+* type: project
+* id: AD7654DE-4B22-APIA-B677-TMO2P2PJAZZ4
+* title: TEAM Jazz repo
+* points: 10 
+
+##### !question
+## URL of team Jazz repo
+URL of any TEAM Jazz deployed repo
+##### !end-question
+
+##### !placeholder
+URL of any TEAM Jazz deployed repo
 ##### !end-placeholder
 
 ##### !explanation
