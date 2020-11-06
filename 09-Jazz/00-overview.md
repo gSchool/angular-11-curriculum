@@ -11,10 +11,38 @@ The documentation for Jazz is so straight forward and simple, we found it best t
 <tr><th> video </th><th> description </th></tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/16isWYgH-nbxB6jHWD0nyZUR8wTJmf1u7/view'> <img src="video-player.png"> </a>
+    <a href='https://drive.google.com/file/d/1YJJGAkXzIu2eWHIz6_IG15Qv8FWWFRbh/view'> <img src="video-player.png"> </a>
     </td> 
-    <td>Creating an Angular deployment using Jazz </td>
+    <td>Jazz Deployments Part One: starting a deployment </td>
 </tr>
+<tr>
+    <td> 
+    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="video-player.png"> </a>
+    </td> 
+    <td>Jazz Deployments Part Two: Configuring your environment </td>
+</tr>
+<tr>
+    <td> 
+    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="video-player.png"> </a>
+    </td> 
+    <td>Jazz Deployments Part Two: Configuring your environment </td>
+</tr>
+<tr>
+    <td> 
+    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="video-player.png"> </a>
+    </td> 
+    <td>Jazz Deployments Part Three: Final Deployed app </td>
+</tr>
+<tr>
+    <td> 
+    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="video-player.png"> </a>
+    </td> 
+    <td>Jazz Deployments Part Three: Final Deployed app </td>
+</tr>
+</table>
+
+
+
 
 
 Documentation for Jazz can be found here: 
