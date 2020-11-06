@@ -23,18 +23,6 @@ The documentation for Jazz is so straight forward and simple, we found it best t
 </tr>
 <tr>
     <td> 
-    <a href='https://drive.google.com/file/d/1Ir_TIZmhvhobjhXxltAEHT6opJt978oY/view'> <img src="/assets/video-player.png"> </a>
-    </td> 
-    <td>Jazz Deployments Part Two: Configuring your environment </td>
-</tr>
-<tr>
-    <td> 
-    <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="/assets/video-player.png"> </a>
-    </td> 
-    <td>Jazz Deployments Part Three: Final Deployed app </td>
-</tr>
-<tr>
-    <td> 
     <a href='https://drive.google.com/file/d/1enss9mFEjzmtGCb1AYSgE1FxwBhoEnDA/view'> <img src="/assets/video-player.png"> </a>
     </td> 
     <td>Jazz Deployments Part Three: Final Deployed app </td>
