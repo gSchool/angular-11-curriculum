@@ -201,6 +201,10 @@ Standards:
         UID: b858e8ec-d16b-40ce-9026-f7feff49a5a2
         Path: /08-taap-security/02-taap-content.md
       -
+        Type: Lesson
+        UID: bf09ed6a-82e9-44b4-a402-6aea43f2f699
+        Path: /08-taap-security/04-taap-resources.md        
+      -
         Type: Checkpoint
         UID: ded2898b-8ce3-4450-a06a-cbfceb5de93f
         Path: /08-taap-security/03-checkpoint.md
