@@ -1,4 +1,4 @@
-# Zero Trust Checkpoint
+# Zero-Trust Philosophy Checkpoint
 
 Review the following architecture diagram that we looked at during the discussion, and identify its vulnerabilities. Then, complete this checkpoint to demonstrate how you would improve this architecture. 
 
