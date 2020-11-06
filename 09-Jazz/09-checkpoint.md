@@ -10,6 +10,10 @@ Deploy a personal Jazz app and also make sure your team has at least one Jazz ap
  
 *TO BE CLEAR:*  One Jazz deployment is your basic or simple personal app. The second deployment is any Jazz app that is integrated with your team's project and it can be written, deployed, and maintainted by anyone on your team. 
 
+*ANOTHER CLARIFICATION:*  It is very likely that you will not be able to finish this checkpoint until after Veteran's day ( toward the end of sprint 6), due to the fact that it may take time for your team to complete the step of getting a deployed Jazz app to talk to Conducktor apps. This is not due until the end of the sprint ( Friday the 13th ). 
+
+
+
 
 ### !challenge
 * type: project
