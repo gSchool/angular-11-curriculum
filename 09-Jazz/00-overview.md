@@ -42,9 +42,8 @@ Written Documentation for Jazz can be found here: [https://docs.jazz.corporate.t
 
 What's due: 
 
-There are two things that are due for you in the checkpoint. 
+Here's due for you in the checkpoint for the Jazz section:
 
-1. A deployed URL of a personal application that you deployed in Jazz
-2. A link to the GitHub repo from your Jazz deployment
-3. A link to either a front end or back end microservice incorporated into your sprint 4 project that communicates with your Conducktor deployed resources.
+1. A personal application that you deployed in Jazz
+2. A team application that you or someone on your team has deployed to Jazz. 
 
