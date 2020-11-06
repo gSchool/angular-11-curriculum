@@ -9,7 +9,8 @@ Jazz docs focusing on the Software Development Lifecycle:
 ![](jazz-sdlc.png)
 
 
-Note : The above image outlines the JAZZ SDLC.  Part of this process is creating a Jazz deployment, visiting the repo that it created for you, forking it, cloning it, making dev changes, pushing new code, submitting MR to master, etc.  
+Note : The above image outlines the JAZZ SDLC.  Part of this process is creating a Jazz deployment, visiting the repo that it created for you, 
+cloning it, creating a feature branch, making dev changes, pushing new code, submitting MR to master, etc.  
 
  
 
