@@ -1,10 +1,10 @@
 # Test Types
 
 ### !callout-info
-There are literally 10s to 100s of testing patterns, types, style and languages. If interested, take a look at [this article](https://www.softwaretestingmaterial.com/types-of-software-testing/) to get a better picture at how verbose testing can be. 
+There are literally 10s to 100s of testing patterns, types, styles and languages. If interested, take a look at [this article](https://www.softwaretestingmaterial.com/types-of-software-testing/) to get a better picture at how verbose testing can be. 
 ### !end-callout
 
-The 2 most common types of test.
+The 2 most common types of tests.
 
 ## Unit
 Unit testing is the most common and possibly valuable form of testing. When we implement unit testing we are only concerned with the logic that is contained inside a single function.
