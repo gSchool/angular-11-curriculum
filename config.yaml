@@ -227,11 +227,19 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: 01EPNMK9S0BGACWXQEMPSB7D0W
-        Path: /10-test-driven-development/00-overview.md
+        Path: /10-testing/00-overview.md
       - Type: Lesson
         UID: 01EPNMKK3FX0QGP44PQFEMB58M
-        Path: /10-test-driven-development/01-tdd-explained.md
+        Path: /10-testing/01-explained.md
+      - Type: Lesson
+        UID: 01EPNVSHFN21WPXH8K6F88XJZX
+        Path: /10-testing/02-test-types.md
+      - Type: Lesson
+        UID: 01EPQ4HWAD3DYXCDP7711DJ4VS
+        Path: /10-testing/03-red-green-refactor.md
+      - Type: Lesson
+        UID: 01EPQ62Q8T5HM57ARH8DGX2WKC
+        Path: /10-testing/04-arrange-act-assert.md
       - Type: Checkpoint
         UID: 01EPNMKSX2A5MJWGAFVH506DB9
-        Path: /10-test-driven-development/09-checkpoint.md
-
+        Path: /10-testing/09-checkpoint.md
