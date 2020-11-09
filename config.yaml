@@ -219,3 +219,19 @@ Standards:
         Type: Checkpoint
         UID: 2f708aba9258a32ca4122d0459d50fc0
         Path: /09-Jazz/09-checkpoint.md
+  - Title: Test Driven Development
+    Description: A dive into the world of testing.
+    UID: 01EPNMJQK2CPTBK4XE3Z4ZH1E9
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - Type: Lesson
+        UID: 01EPNMK9S0BGACWXQEMPSB7D0W
+        Path: /10-test-driven-development/00-overview.md
+      - Type: Lesson
+        UID: 01EPNMKK3FX0QGP44PQFEMB58M
+        Path: /10-test-driven-development/01-tdd-explained.md
+      - Type: Checkpoint
+        UID: 01EPNMKSX2A5MJWGAFVH506DB9
+        Path: /10-test-driven-development/09-checkpoint.md
+
