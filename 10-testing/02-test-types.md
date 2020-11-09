@@ -21,14 +21,14 @@ Taking the second requirement we would `FIRST` write a test to show what we will
 Integration testing is a step above unit testing. Use integration testing to verify that a group of components, methods or classes produce the expected output given a specific input.
 
 ### !callout-info
-As example, say our requirements are for an endpoint that:
+As an example, say our requirements are for an endpoint that:
 1. retrieves a list of measurements from a database
 2. converts the values from metric to standard
 3. sorts the list from largest to smallest
 
-Integration testing in not concerned with the inner workings of a single method. Instead, integration testing says, "If I query the endpoint for a list will it: retrieve, convert and sort as expected."
+Integration testing in not concerned with the inner workings of a single method. Instead, integration testing says, "If I query the endpoint for a list it should retrieve, convert and sort as expected."
 ### !end-callout
 
 ## Other Types of Tests
 
-Regression, Smoke, Alpha, Beta, System, Stress & Performance are all different types of testing used for specific use cases. Keep in mind that at times the different testing methodologies can be used, combined or altered depending on the task and requirements at that time.
+Regression, Smoke, Alpha, Beta, System, Stress & Performance are all different types of testing used for specific use cases. Keep in mind that at times the different testing methodologies can be used, combined or altered depending on the tasks and/or requirements at that time.
