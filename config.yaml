@@ -243,3 +243,6 @@ Standards:
       - Type: Checkpoint
         UID: 01EPNMKSX2A5MJWGAFVH506DB9
         Path: /10-testing/09-checkpoint.md
+      - Type: Lesson
+        UID: 01EPQ7565XK088EQC0F8HKBA75
+        Path: /10-testing/10-testing-resources.md
