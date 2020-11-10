@@ -10,7 +10,7 @@
 - Saves Time
     - Tests not properly written or nonexistent make diagnosing and resolving bugs a potentially tedious task. At times the stacktrace and error message don't bring us to the exact location of the problem; requiring us to manually log inputs and output until we spot the issue.
 - Save Money
-    - As developers our ability to maximize our efficiency and quality is a major responsibility. If we are wasting time debugging untested code we are making the best use of our time.
+    - As developers our ability to maximize our efficiency and quality is a major responsibility. If we are wasting time debugging untested code we are not making the best use of our time.
 - Save Energy
     - Debugging can be frustrating, especially when it isn't your code you are trying to fix and test. Ensuring we test appropriately helps everybody involved enjoy our code a little more.
 
