@@ -247,7 +247,7 @@ Standards:
         UID: 68d2471b5047c91d1ba0379ba2d85b83
         Path: /10-testing/04-arrange-act-assert.md
       -
-        Type: Resource
+        Type: Lesson
         UID: 339674b7b9f6cb4ed967a97b082cc472
         Path: /10-testing/05-testing-resources.md
       -
