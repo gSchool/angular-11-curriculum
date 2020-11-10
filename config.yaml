@@ -247,13 +247,13 @@ Standards:
         UID: 68d2471b5047c91d1ba0379ba2d85b83
         Path: /10-testing/04-arrange-act-assert.md
       -
+        Type: Resource
+        UID: 339674b7b9f6cb4ed967a97b082cc472
+        Path: /10-testing/05-testing-resources.md
+      -
         Type: Checkpoint
         UID: 628f914b76e2f548b90b9a66e5e77fca
         Path: /10-testing/09-checkpoint.md
-      -
-        Type: Resource
-        UID: 5d07efd0cb5d162ce16f6e2963e03390
-        Path: /10-testing/10-testing-resources.md
   -
     Title: Async
     Description: Async
