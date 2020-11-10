@@ -197,7 +197,7 @@ Standards:
         UID: 94d5d91e316c1d5f74ffe6b444c2953d
         Path: /08-taap-security/03-checkpoint.md
       -
-        Type: Lesson
+        Type: Resource
         UID: b20ad2f9a0d3a3922e57998c3e660802
         Path: /08-taap-security/04-taap-resources.md
   -
@@ -219,30 +219,49 @@ Standards:
         Type: Checkpoint
         UID: 2f708aba9258a32ca4122d0459d50fc0
         Path: /09-Jazz/09-checkpoint.md
-  - Title: Test Driven Development
-    Description: A dive into the world of testing.
-    UID: 01EPNMJQK2CPTBK4XE3Z4ZH1E9
+  -
+    Title: Testing
+    Description: Testing
+    UID: fa6a5a3224d7da66d9e0bdec25f62cf0
     SuccessCriteria:
       - success criteria
     ContentFiles:
-      - Type: Lesson
-        UID: 01EPNMK9S0BGACWXQEMPSB7D0W
+      -
+        Type: Lesson
+        UID: e9e2cc24300ab045d5372537db32b3ea
         Path: /10-testing/00-overview.md
-      - Type: Lesson
-        UID: 01EPNMKK3FX0QGP44PQFEMB58M
+      -
+        Type: Lesson
+        UID: b29064106cfad9968cfb344c10149cf5
         Path: /10-testing/01-explained.md
-      - Type: Lesson
-        UID: 01EPNVSHFN21WPXH8K6F88XJZX
+      -
+        Type: Lesson
+        UID: 4ffebdbd439d3251cfe642d33eceed48
         Path: /10-testing/02-test-types.md
-      - Type: Lesson
-        UID: 01EPQ4HWAD3DYXCDP7711DJ4VS
+      -
+        Type: Lesson
+        UID: ccac2d33d1ddd37342115d3bec15a8b2
         Path: /10-testing/03-red-green-refactor.md
-      - Type: Lesson
-        UID: 01EPQ62Q8T5HM57ARH8DGX2WKC
+      -
+        Type: Lesson
+        UID: 68d2471b5047c91d1ba0379ba2d85b83
         Path: /10-testing/04-arrange-act-assert.md
-      - Type: Checkpoint
-        UID: 01EPNMKSX2A5MJWGAFVH506DB9
+      -
+        Type: Checkpoint
+        UID: 628f914b76e2f548b90b9a66e5e77fca
         Path: /10-testing/09-checkpoint.md
-      - Type: Lesson
-        UID: 01EPQ7565XK088EQC0F8HKBA75
+      -
+        Type: Resource
+        UID: 5d07efd0cb5d162ce16f6e2963e03390
         Path: /10-testing/10-testing-resources.md
+  -
+    Title: Async
+    Description: Async
+    UID: 24aa4117da86c41684ad25742832dfa6
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 64d9c15bc04f92d01ca5fc78134ccde1
+        Path: /11-async/00-overview.md
