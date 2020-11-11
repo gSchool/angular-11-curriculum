@@ -247,7 +247,7 @@ Standards:
         UID: 68d2471b5047c91d1ba0379ba2d85b83
         Path: /10-testing/04-arrange-act-assert.md
       -
-        Type: Lesson
+        Type: Resource
         UID: 339674b7b9f6cb4ed967a97b082cc472
         Path: /10-testing/05-testing-resources.md
       -
@@ -265,3 +265,18 @@ Standards:
         Type: Lesson
         UID: 64d9c15bc04f92d01ca5fc78134ccde1
         Path: /11-async/00-overview.md
+  -
+    Title: React
+    Description: React
+    UID: 50ce2da63bea6a618e7578fa50690040
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 88305e34db7c630f3102e1dea8c58095
+        Path: /12-React/00-react1.md
+      -
+        Type: Lesson
+        UID: 120f3b1f621eee960c09da1f096b1502
+        Path: /12-React/01-react2.md
