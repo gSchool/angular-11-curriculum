@@ -299,6 +299,10 @@ Standards:
       - success criteria
     ContentFiles:
       -
+        Type: Lesson
+        UID: 111779df20f2e940c5a2014284b3dd3c
+        Path: /15-capstone-submissions/00-submissions.md
+      -
         Type: Checkpoint
-        UID: ead6c18e215ab3ab6cf77f763dd32e0e
-        Path: /15-capstone-submissions/00-checkpoint.md
+        UID: a95032b2c1a099ef4cb339b4e86122f3
+        Path: /15-capstone-submissions/01-checkpoint.md
