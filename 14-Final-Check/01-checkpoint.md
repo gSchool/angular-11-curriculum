@@ -276,21 +276,21 @@ Which of the following is NOT a typical benefit of Microservice architecture as 
 
 ### !challenge
 
-* type: checkbox
+* type: multiple-choice
 * id: 2e24db4c-5868-41c1-8a4a-506c418fin8a
 * title: PUML
 
 ##### !question
 
-How is PUML used at T-Mobile? ( CHECK ALL THAT APPLY)
+How is PUML used at T-Mobile?
 
 ##### !end-question
 
 ##### !options
 
 * Modeling application flows
-* Diagraming data entities
-* Generating detailed api documenation
+* Diagramming data entities
+* Auto-generating api endpoint documentation
 * initializing deployments
 
 ##### !end-options
@@ -298,7 +298,6 @@ How is PUML used at T-Mobile? ( CHECK ALL THAT APPLY)
 ##### !answer
 
 * Modeling application flows
-* Diagraming data entities
 
 ##### !end-answer
 
