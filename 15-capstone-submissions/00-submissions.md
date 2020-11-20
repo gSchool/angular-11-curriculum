@@ -3,7 +3,7 @@
 
 
 ### !challenge
-* type: project
+* type: paragraph
 * id: AD7654DE-4B22-4B0A-B577-CAPSTONEREPO
 * title: CAPSTONE : deployed repos
 * points: 10
@@ -27,7 +27,7 @@ Thank you for your submission! 😀
 In the process of building this project, what were your roles? What tech did you use, and Which challenges did you face, if any, and how did you overcome them ? 
 
 ### !challenge
-* type: project
+* type: paragraph
 * id: AD7654DE-4B22-4B0A-B577-CAPSTONEROLE
 * title: Your role
 * points: 10

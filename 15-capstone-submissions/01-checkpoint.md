@@ -13,7 +13,7 @@ It may be easiest to copy all of that in a text file and paste it right into the
  
 
 ### !challenge
-* type: project
+* type: paragraph
 * id: AD7654DE-4B22-4B0A-B577-CAPSTONEURLS
 * title: CAPSTONE : deployed URLs
 * points: 10
@@ -40,7 +40,7 @@ Thank you for your submission! 😀
 Please submit a sentence describing how planning and collaboration went. If you have any publicly hosted images or documentation that you want to submit ( diagrams, wireframes, etc.), include another sentence pointing to the places to find these elements. 
 
 ### !challenge
-* type: project
+* type: paragraph
 * id: AD7654DE-4B22-4B0A-B577-CAPSTONEPLAN
 * title: Planning and collaboration
 * points: 10
@@ -66,7 +66,7 @@ Thank you for your submission! 😀
 ## Estimated back end test coverage
 
 ### !challenge
-* type: project
+* type: paragraph
 * id: AD7654DE-4B22-4B0A-B577-CAPSTONETEST
 * title: Test coverage percentage
 * points: 10
