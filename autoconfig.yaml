@@ -291,3 +291,14 @@ Standards:
         Type: Checkpoint
         UID: 9e5a4f4ebb4c98147a31a77d6df7098a
         Path: /14-Final-Check/01-checkpoint.md
+  -
+    Title: Capstone Submissions
+    Description: Capstone Submissions
+    UID: 1b2b76a083d8debf06a532aee4b31ae4
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Checkpoint
+        UID: ead6c18e215ab3ab6cf77f763dd32e0e
+        Path: /15-capstone-submissions/00-checkpoint.md

@@ -18,12 +18,12 @@ It may be easiest to copy all of that in a text file and paste it right into the
 * points: 10
 
 ##### !question
-## URLs of your deployed containers in Conducktor
-URLs of your deployed containers in Conducktor
+## URLs of your apps  
+URLs of your deployed apps
 ##### !end-question
 
 ##### !placeholder
-URLs of your deployed containers in Conducktor
+URLs of your deployed apps
 ##### !end-placeholder
 
 ##### !explanation
