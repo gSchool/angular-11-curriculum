@@ -1,5 +1,5 @@
 
- ## Your capstone services
+ Your capstone services
 
 ### Submit all of your deployed urls with a label, a colon, and the url, separated by commas. 
 
@@ -83,11 +83,12 @@ Test coverage percentage
 ##### !explanation
 Thank you for your submission! 😀
 ##### !end-explanation
+
+### !rubric
+  https://docs.google.com/document/d/1-Oz9IX6nlo-s2g63yiWfPDSXxNxiBVpx82p1-AnSDe4/edit?ts=5fadcaf0
+### !end-rubric  
 ### !end-challenge
 <!-- end question -->
 
-
-
-
-
+ 
 
