@@ -39,16 +39,24 @@ Standards:
         Path: /01-http/02-parts-of-component.md
       -
         Type: Lesson
-        UID: 68aca86dfb4d5674f46d3b5c20d91d13
-        Path: /01-http/03-pipelines-intro.md
+        UID: 3e166f78f220a63f1faa6175204fc661
+        Path: /01-http/03-iteration-overview.md
       -
         Type: Lesson
-        UID: 7df9800fefdc263789b701c724fdd270
-        Path: /01-http/04-ci-yaml-file.md
+        UID: 829ee27deac7f25b47299744d2a055d4
+        Path: /01-http/04-iterating-over-objects.md
       -
         Type: Lesson
-        UID: b9338477995840b004fe30f475b21679
-        Path: /01-http/05-gitlab-continuous-delivery.md
+        UID: 0d88a43836a786a926b71c8777d21188
+        Path: /01-http/05-making-dedicated-component.md
+      -
+        Type: Lesson
+        UID: e75b6afd3dc8c06cb92049ba50ad81ac
+        Path: /01-http/06-models.md
+      -
+        Type: Lesson
+        UID: e672fdb3cf0386bd7c4241a35aa448e6
+        Path: /01-http/07-create-flight-service.md
       -
         Type: Checkpoint
         UID: 46d7abae9e0a59a4b3485b7930fb3f7f
