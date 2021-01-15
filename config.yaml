@@ -58,6 +58,14 @@ Standards:
         UID: e672fdb3cf0386bd7c4241a35aa448e6
         Path: /01-http/07-create-flight-service.md
       -
+        Type: Lesson
+        UID: 81ef1393772013171f037f3b48e8cd5b
+        Path: /01-http/08-setting-up-http.md
+      -
+        Type: Lesson
+        UID: 552ad86875bd71c3a31e5cc971eff94e
+        Path: /01-http/09-using-http.md
+      -
         Type: Checkpoint
         UID: 46d7abae9e0a59a4b3485b7930fb3f7f
         Path: /01-http/99-checkpoint-project.md
