@@ -1,10 +1,6 @@
 # Angular models
 
 
-
-
-
-View Video:
 [![](video-player.png)](https://drive.google.com/file/d/1p_AaQw6EpwxR03jY5T4w2p52UvjuN3t9/view)
 
 

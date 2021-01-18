@@ -1,8 +1,6 @@
 # Create a flight service
 
 
-
-View the video
 [![](video-player.png)](https://drive.google.com/file/d/1jLm4hbU5uInTrEOBFJkTUfzuqWektpK-/view)
 
 
