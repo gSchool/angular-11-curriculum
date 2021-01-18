@@ -1,4 +1,4 @@
-## Overview : Using http in Angular
+## Using http in Angular
 
 ### !callout-success
 # Learning Objectives
