@@ -4,9 +4,9 @@
 View the videos:
 
 Setting up http: 
-https://drive.google.com/file/d/1kDzbcHSI9EhM-zIXDbtBu325mrYYA3WC/view
 
 
+[![](video-player.png)](https://drive.google.com/file/d/1kDzbcHSI9EhM-zIXDbtBu325mrYYA3WC/view)
 
 
 View on StackBlitz:
