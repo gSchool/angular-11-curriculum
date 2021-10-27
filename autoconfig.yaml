@@ -48,3 +48,6 @@ Standards:
   - Type: Checkpoint
     Path: /00-angular-11-curriculum/01-http/99-checkpoint-project.md
     UID: 611c5e2a1adfdffd5aad3f9895f265c7
+  - Type: Lesson
+    Path: /00-angular-11-curriculum/02-directives/00-structural-directives.md
+    UID: 921c291e89224208f2ef6d21f22fa28c
