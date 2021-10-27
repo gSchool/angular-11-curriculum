@@ -7,7 +7,9 @@ Watch the video : Angular iteration : strings and objects:
 
 
 Try it on Stack Blitz: 
-https://stackblitz.com/github/gSchool/angular-flights
+https://stackblitz.com/edit/angular-ivy-53frrd?file=src%2Fapp%2Fapp.component.html
+
+
 
 
 
