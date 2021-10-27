@@ -5,7 +5,9 @@
 
 
 View on StackBlitz:
-https://stackblitz.com/github/gSchool/angular-flights/tree/step1
+https://stackblitz.com/edit/angular-ivy-kacbz4?file=src%2Fapp%2Fapp.component.html
+
+
 
 
 
