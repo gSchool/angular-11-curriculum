@@ -29,6 +29,6 @@ In the view, we can call the speak method from the component and interpolate the
 Working code is worth a thousand words, so viewing the live demo on StackBlitz will make this crystal clear. Examine  *app.component.html* and *app.component.ts* and play around in the live code with the component and the view so that you can experience the interaction between both and see it update in real time. ( Note: altering the code may require you to create a free account ) 
 
 
-[View and edit StackBlitz](https://stackblitz.com/github/nmuta/angular-class-vs-method-variables)
+[View and edit StackBlitz](https://stackblitz.com/edit/angular-ivy-jd5rsr?file=src%2Fapp%2Fapp.component.ts)
 
 
