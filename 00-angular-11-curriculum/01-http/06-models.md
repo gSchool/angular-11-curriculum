@@ -5,4 +5,4 @@
 
 
 View on StackBlitz: 
-https://stackblitz.com/github/gSchool/angular-flights/tree/step2
+https://github.com/nmuta/angular-flights-step2
