@@ -184,7 +184,7 @@ You should use at least two of the following attribute directives:
 * title: Attribute directives
 * topics: Directives  
 ##### !question
-Paste the URL of your Stackblitz attribute directives demo
+Paste the URL of your Stackblitz attribute directives project
 ##### !end-question
 
  
