@@ -54,3 +54,12 @@ Standards:
   - Type: Checkpoint
     Path: /01-http/99-checkpoint-project.md
     UID: 17a6fffd27cc84f405e6d8d2316d227a
+- Title: Directives
+  UID: a63b1c20caedab157856c4316570fe95
+  Description: Directives
+  SuccessCriteria:
+  - success criteria
+  ContentFiles:
+  - Type: Lesson
+    Path: /02-directives/00-directives.md
+    UID: 3469e8027355986b005b8a607056244e

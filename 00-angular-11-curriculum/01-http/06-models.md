@@ -5,4 +5,8 @@
 
 
 View on StackBlitz: 
-https://github.com/nmuta/angular-flights-step2
+https://stackblitz.com/edit/angular-ivy-pbxj7x
+
+
+View on GitHub: 
+https://github.com/Nmuta/angular-flights-step-3/
