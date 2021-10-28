@@ -54,9 +54,9 @@ Standards:
   - Type: Lesson
     Path: /01-http/09-using-http.md
     UID: f2071df82add0b1694df6bbff5a9b6da
-  - Type: Checkpoint
-    Path: /01-http/99-checkpoint-project.md
-    UID: 17a6fffd27cc84f405e6d8d2316d227a
+  - Type: Lesson
+    Path: /01-http/99-project.md
+    UID: c4bd076842eaa507b54637978ca5e07b
 - Title: Directives
   UID: a63b1c20caedab157856c4316570fe95
   Description: Directives
