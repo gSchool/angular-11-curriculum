@@ -51,8 +51,8 @@ And it should work. You can also use the [CORS plugin for Chrome](https://chrome
 
 ### !challenge
 * type: project
-* id: ISA654DE-4B2U-UB0A-B577-ANG7NGPROJEC
-* title: checkpoint
+* id: III654DE-4B2U-UB0A-B577-ANG7NGPROJEC
+* title: Unit one exercise
 
 
 ##### !question
