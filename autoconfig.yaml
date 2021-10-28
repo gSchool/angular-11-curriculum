@@ -15,21 +15,6 @@ Standards:
   - Type: Lesson
     Path: /00-intro/00-overview.md
     UID: 87a7f96b4efda9f9947a46b65ba7b99d
-- Title: Observables
-  UID: fb400c1612336da8b8edb87235f67b77
-  Description: Observables
-  SuccessCriteria:
-  - success criteria
-  ContentFiles:
-  - Type: Lesson
-    Path: /001-observables/00-learning-objectives.md
-    UID: 2c4cba8002320f54e0887de748d0421d
-  - Type: Lesson
-    Path: /001-observables/01-observables-overview.md
-    UID: abb33e3dcebffa493ad63ed09bde36fc
-  - Type: Lesson
-    Path: /001-observables/02-modifying-service.md
-    UID: f90aba4d5136d4816e764f47c0e83c44
 - Title: Http
   UID: 9d4d43de68f0b3555d5a5ef5dc05bb95
   Description: Http
@@ -72,6 +57,21 @@ Standards:
   - Type: Lesson
     Path: /01-http/99-project.md
     UID: c4bd076842eaa507b54637978ca5e07b
+- Title: 01a Observables
+  UID: 6ec8d91eea2e64c0f09350192e2e0c03
+  Description: 01a Observables
+  SuccessCriteria:
+  - success criteria
+  ContentFiles:
+  - Type: Lesson
+    Path: /01a-observables/00-learning-objectives.md
+    UID: e3f577afadb4ac824b8dd4f09cf3da12
+  - Type: Lesson
+    Path: /01a-observables/01-observables-overview.md
+    UID: 0a5f4774b40794631e16019f16cb12a8
+  - Type: Lesson
+    Path: /01a-observables/02-modifying-service.md
+    UID: 5ca5d1692c426bbfc03af15efbea8d7a
 - Title: Directives
   UID: a63b1c20caedab157856c4316570fe95
   Description: Directives
