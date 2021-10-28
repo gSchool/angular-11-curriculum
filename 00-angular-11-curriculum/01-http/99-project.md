@@ -56,7 +56,7 @@ And it should work. You can also use the [CORS plugin for Chrome](https://chrome
 
 
 ##### !question
-## q1
+## StackBlitz project
 Enter the URL of your StackBlitz Angular project
 ##### !end-question
 
