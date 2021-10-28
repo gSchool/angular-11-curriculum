@@ -48,9 +48,9 @@ Standards:
   - Type: Lesson
     Path: /00-angular-11-curriculum/01-http/09-using-http.md
     UID: 9a9f460451cd29049a2e7b2e18dad472
-  - Type: Checkpoint
-    Path: /00-angular-11-curriculum/01-http/99-checkpoint-project.md
-    UID: 611c5e2a1adfdffd5aad3f9895f265c7
+  - Type: Lesson
+    Path: /00-angular-11-curriculum/01-http/99-project.md
+    UID: b48d50428d96011c5bb57646f237bd89
   - Type: Lesson
     Path: /00-angular-11-curriculum/02-directives/00-directives.md
     UID: 4cf1f1a45bfd4af1623d3842a45ea9a6
