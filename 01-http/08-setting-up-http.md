@@ -6,7 +6,7 @@ View the videos:
 Setting up http: 
 
 
-[![](video-player.png)](https://drive.google.com/file/d/1kDzbcHSI9EhM-zIXDbtBu325mrYYA3WC/view)
+[![](video-player.png)](https://watch.screencastify.com/v/cSvlMHlfFYSg0fxK3q1X)
 
 
 View on StackBlitz:

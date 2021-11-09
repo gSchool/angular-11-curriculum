@@ -1,7 +1,7 @@
 # Create a flight service
 
 
-[![](video-player.png)](https://drive.google.com/file/d/1jLm4hbU5uInTrEOBFJkTUfzuqWektpK-/view)
+[![](video-player.png)](https://watch.screencastify.com/v/5NSVRo2r1DujjTYhZxY3)
 
 
 View on StackBlitz: 

@@ -2,7 +2,7 @@
 
 
 Watch the video : Angular iteration : strings and objects: 
-[![](video-player.png)](https://drive.google.com/file/d/1Cac-KxqgP1tcf5Qnb21sSgcKZX66rY81/view) 
+[![](video-player.png)](https://watch.screencastify.com/v/CoSiXoMZUOFx4oOWi1N4) 
 
 
 

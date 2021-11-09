@@ -1,7 +1,7 @@
 # Making a dedicated component 
 
 
-[![](video-player.png)](https://drive.google.com/file/d/18SQ3L9QukajCh6aT87ZqKaD_W4f9WSsZ/view)
+[![](video-player.png)](https://watch.screencastify.com/v/VCdywjSj9sG4clcKRjEK)
 
 
 View on StackBlitz:
