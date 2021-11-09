@@ -18,5 +18,5 @@ We were then able to call *flightService*, which is a local variable that repres
 
 
  
- 
+ ### Optional
 Check out [this exercise](https://github.com/gSchool/ngshop) to practice more with services and dependency injection.
