@@ -25,10 +25,10 @@ Application consumes two external APIs: 20 points
 
 
 You are free to use this one: 
-[http://nestjs-typeorm-postgres.herokuapp.com/flights](http://nestjs-typeorm-postgres.herokuapp.com/flights)
+[https://nestjs-typeorm-postgres.herokuapp.com/flights](https://nestjs-typeorm-postgres.herokuapp.com/flights)
 
 or choose one from this list: 
-[https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
+[https://gitlab.com/nmuta1/public-apis/-/blob/master/README.md](https://gitlab.com/nmuta1/public-apis/-/blob/master/README.md)
 
 ## IMPORTANT ! 
 You may run into CORS errors when accessing an external API while running a local Angular project. Ask your instructor to provide a quick lecture on CORS.  There are many ways around this, but one easy way is to use a CORS proxy like CORS ANYWHERE. Please be mindful that this is a public resource that was made for students and should not be abused or used on high-volume, commercially facing sites. 
